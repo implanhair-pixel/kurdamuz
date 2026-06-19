@@ -1,0 +1,1186 @@
+{
+  "rootFolder": "f:\\ver asli\\ka-v1",
+  "analyzedAt": "2026-06-17T23:13:37.930Z",
+  "rootStructure": [
+    {
+      "name": ".gitattributes",
+      "type": "file",
+      "size": 48,
+      "lines": 2
+    },
+    {
+      "name": ".gitignore",
+      "type": "file",
+      "size": 1115,
+      "lines": 74
+    },
+    {
+      "name": "ADVANCED_CHANGES.md",
+      "type": "file",
+      "size": 9713,
+      "lines": 318
+    },
+    {
+      "name": "ARCHITECTURE_REMEDIATION_PLAN.md",
+      "type": "file",
+      "size": 7226,
+      "lines": 139
+    },
+    {
+      "name": "attached_assets",
+      "type": "dir"
+    },
+    {
+      "name": "COMMUNITY_PLATFORM_DOCUMENTATION.md",
+      "type": "file",
+      "size": 12590,
+      "lines": 464
+    },
+    {
+      "name": "drizzle",
+      "type": "dir"
+    },
+    {
+      "name": "drizzle.config.ts",
+      "type": "file",
+      "size": 282,
+      "lines": 14
+    },
+    {
+      "name": "intercept-exit.js",
+      "type": "file",
+      "size": 1571,
+      "lines": 31
+    },
+    {
+      "name": "MANUAL_ACTIONS_REQUIRED.md",
+      "type": "file",
+      "size": 10796,
+      "lines": 211
+    },
+    {
+      "name": "messages",
+      "type": "dir"
+    },
+    {
+      "name": "netlify",
+      "type": "dir"
+    },
+    {
+      "name": "netlify.toml",
+      "type": "file",
+      "size": 404,
+      "lines": 18
+    },
+    {
+      "name": "next.config.js",
+      "type": "file",
+      "size": 1778,
+      "lines": 83
+    },
+    {
+      "name": "package-lock.json",
+      "type": "file",
+      "size": 521458,
+      "lines": 14657
+    },
+    {
+      "name": "package.json",
+      "type": "file",
+      "size": 1631,
+      "lines": 59
+    },
+    {
+      "name": "package.json.scripts",
+      "type": "file",
+      "size": 940,
+      "lines": 36
+    },
+    {
+      "name": "PHASE9_TESTING.md",
+      "type": "file",
+      "size": 9055,
+      "lines": 253
+    },
+    {
+      "name": "PHASE_11_VALIDATION.md",
+      "type": "file",
+      "size": 6057,
+      "lines": 179
+    },
+    {
+      "name": "PHASE_13_README.md",
+      "type": "file",
+      "size": 10144,
+      "lines": 395
+    },
+    {
+      "name": "PHASE_13_VALIDATION.md",
+      "type": "file",
+      "size": 7115,
+      "lines": 140
+    },
+    {
+      "name": "PHASE_7_IMPLEMENTATION_SUMMARY.md",
+      "type": "file",
+      "size": 8027,
+      "lines": 217
+    },
+    {
+      "name": "postcss.config.js",
+      "type": "file",
+      "size": 83,
+      "lines": 7
+    },
+    {
+      "name": "public",
+      "type": "dir"
+    },
+    {
+      "name": "REMEDIATION_STATUS_REPORT.md",
+      "type": "file",
+      "size": 11225,
+      "lines": 280
+    },
+    {
+      "name": "replit.nix",
+      "type": "file",
+      "size": 43,
+      "lines": 6
+    },
+    {
+      "name": "screenshots",
+      "type": "dir"
+    },
+    {
+      "name": "sentry.client.config.ts.bak",
+      "type": "file",
+      "size": 394,
+      "lines": 16
+    },
+    {
+      "name": "sentry.edge.config.ts.bak",
+      "type": "file",
+      "size": 212,
+      "lines": 8
+    },
+    {
+      "name": "sentry.server.config.ts.bak",
+      "type": "file",
+      "size": 212,
+      "lines": 8
+    },
+    {
+      "name": "src",
+      "type": "dir"
+    },
+    {
+      "name": "start.js",
+      "type": "file",
+      "size": 6829,
+      "lines": 174
+    },
+    {
+      "name": "STATUS_REPORT_DB_MIGRATION.md",
+      "type": "file",
+      "size": 8315,
+      "lines": 205
+    },
+    {
+      "name": "tailwind.config.ts",
+      "type": "file",
+      "size": 407,
+      "lines": 20
+    },
+    {
+      "name": "TESTING.md",
+      "type": "file",
+      "size": 5217,
+      "lines": 170
+    },
+    {
+      "name": "tsconfig.json",
+      "type": "file",
+      "size": 716,
+      "lines": 43
+    },
+    {
+      "name": "workers",
+      "type": "dir"
+    },
+    {
+      "name": "zipFile.zip",
+      "type": "file",
+      "size": 133,
+      "lines": 4
+    }
+  ],
+  "rootFileSnippets": {
+    "ADVANCED_CHANGES.md": [
+      "# KurdHub Advanced Upgrades - تغییرات پیشرفته",
+      "",
+      "## 📋 خلاصه کلی",
+      "",
+      "این بسته شامل تغییرات فنی عمیق برای تبدیل پروژه KurdHub به یک اپلیکیشن **Enterprise-Grade** است. تمام تغییرات با استفاده از کتابخانه‌های رایگان و متن‌باز انجام شده‌اند.",
+      "",
+      "---",
+      "",
+      "## 🔄 تغییرات اصلی",
+      ""
+    ],
+    "ARCHITECTURE_REMEDIATION_PLAN.md": [
+      "# Architecture Remediation Plan - Completion Status",
+      "",
+      "## Overview",
+      "This document tracks the completion status of the architecture remediation plan for the KurdAmuz project.",
+      "",
+      "## Phase 1: Planning ✅ COMPLETED",
+      "- [x] Create detailed implementation plan for phases 2-7 remediation",
+      "",
+      "## Phase 2: Storage & Background Processing ✅ COMPLETED",
+      "- [x] Remove Cloudflare R2, implement Supabase Storage"
+    ],
+    "COMMUNITY_PLATFORM_DOCUMENTATION.md": [
+      "# KurdAmuz Community Platform Documentation",
+      "",
+      "## Overview",
+      "",
+      "The KurdAmuz Community Platform is a comprehensive, enterprise-grade community system integrated into the KurdAmuz language learning platform. It enables users to engage in discussions, share experiences, ask questions, and build a supportive learning community.",
+      "",
+      "## Table of Contents",
+      "",
+      "1. [Architecture](#architecture)",
+      "2. [Database Schema](#database-schema)"
+    ],
+    "drizzle.config.ts": [
+      "import type { Config } from \"drizzle-kit\";",
+      "import { config } from \"dotenv\";",
+      "",
+      "config({ path: \".env.local\" });",
+      "",
+      "export default {",
+      "schema: \"./src/db/schema.ts\",",
+      "out: \"./drizzle\",",
+      "dialect: \"postgresql\",",
+      "dbCredentials: {"
+    ],
+    "intercept-exit.js": [
+      "/**",
+      "* Loaded via NODE_OPTIONS=--require into every Node.js subprocess.",
+      "* 1. Suppresses spurious process.exit(0) calls in Next.js dev internals",
+      "* 2. Adds a keepalive timer so event loop doesn't drain (fixes the router",
+      "*    worker exiting due to all handles closing before the app is ready)",
+      "*/",
+      "",
+      "// ── Suppress process.exit(0) ────────────────────────────────────────────────",
+      "const _exit = process.exit.bind(process);",
+      "process.exit = function patchedExit(code) {"
+    ],
+    "MANUAL_ACTIONS_REQUIRED.md": [
+      "# Manual Actions Required - Architecture Remediation",
+      "",
+      "## Architecture Remediation Manual Actions",
+      "",
+      "The following manual actions are required to complete the architecture remediation implementation:",
+      "",
+      "### 1. Environment Variables Configuration",
+      "",
+      "Add the following environment variables to your `.env` file:",
+      ""
+    ],
+    "netlify.toml": [
+      "# Netlify Configuration for KurdAmuz",
+      "# This configures Netlify Functions, scheduled jobs, and deployment settings",
+      "",
+      "[build]",
+      "command = \"npm run build\"",
+      "publish = \".next\"",
+      "",
+      "[build.environment]",
+      "NODE_VERSION = \"20\"",
+      ""
+    ],
+    "next.config.js": [
+      "/** @type {import('next').NextConfig} */",
+      "",
+      "const withPWA = require('next-pwa')({",
+      "dest: 'public',",
+      "register: true,",
+      "skipWaiting: true,",
+      "runtimeCaching: [",
+      "{",
+      "urlPattern: /^https:\\/\\/fonts\\.(?:gstatic)\\.com\\/.*/i,",
+      "handler: 'CacheFirst',"
+    ],
+    "package-lock.json": [
+      "{",
+      "\"name\": \"kurdamuz\",",
+      "\"version\": \"0.1.0\",",
+      "\"lockfileVersion\": 3,",
+      "\"requires\": true,",
+      "\"packages\": {",
+      "\"\": {",
+      "\"name\": \"kurdamuz\",",
+      "\"version\": \"0.1.0\",",
+      "\"dependencies\": {"
+    ],
+    "package.json": [
+      "{",
+      "\"name\": \"kurdamuz\",",
+      "\"version\": \"0.1.0\",",
+      "\"private\": true,",
+      "\"scripts\": {",
+      "\"dev\": \"next dev\",",
+      "\"build\": \"next build\",",
+      "\"start\": \"next start\",",
+      "\"lint\": \"next lint\",",
+      "\"db:generate\": \"drizzle-kit generate\","
+    ],
+    "package.json.scripts": [
+      "{",
+      "\"scripts\": {",
+      "\"dev\": \"next dev\",",
+      "\"build\": \"next build\",",
+      "\"start\": \"next start\",",
+      "\"lint\": \"next lint\",",
+      "\"type-check\": \"tsc --noEmit\",",
+      "\"format\": \"prettier --write \\\"src/**/*.{ts,tsx,md}\\\"\",",
+      "\"format:check\": \"prettier --check \\\"src/**/*.{ts,tsx,md}\\\"\"",
+      "},"
+    ],
+    "PHASE9_TESTING.md": [
+      "# Phase 9: Coin System and Daily Missions - Testing and Validation",
+      "",
+      "## Testing Strategy",
+      "",
+      "### Phase 9.1: Core Wallet System Testing",
+      "",
+      "#### Unit Tests",
+      "- **WalletManager Tests**",
+      "- `testCreateWallet()`: Verify wallet creation with unique user ID",
+      "- `testGetBalance()`: Verify balance retrieval for existing wallet"
+    ],
+    "PHASE_11_VALIDATION.md": [
+      "# Phase 11: Learning Paths - Validation Summary",
+      "",
+      "## Exit Criteria Status",
+      "",
+      "### Core Implementation (Completed)",
+      "- ✅ Learning Path framework implemented and fully operational",
+      "- Database schema: learning_programs, learning_paths, learning_modules, learning_units, learning_lessons, learning_activities, learning_assessments, user_learning_progress, learning_certificates, learning_recommendations, learning_audit_logs",
+      "- Library functions: learning-paths, curriculum, recommendations, certifications, analytics, assessments, audits",
+      "- TypeScript types and validation schemas",
+      ""
+    ],
+    "PHASE_13_README.md": [
+      "# Phase 13: Dialect Comparison Platform - Implementation Documentation",
+      "",
+      "## Overview",
+      "",
+      "Phase 13 implements a comprehensive Dialect Comparison Platform for the KurdAmuz project, enabling users to search, compare, and analyze Kurdish vocabulary across different dialects. This platform provides advanced lexical analysis, search capabilities, dictionary mode, linguistic annotations, and research workspace features.",
+      "",
+      "## Architecture",
+      "",
+      "### Database Schema",
+      ""
+    ],
+    "PHASE_13_VALIDATION.md": [
+      "# Phase 13 Dialect Comparison Platform - Exit Criteria Validation",
+      "",
+      "## Exit Criteria Checklist",
+      "",
+      "### Database & Schema (Criteria 1-5)",
+      "- [x] **1.** Extended `dialects` table with `region`, `status`, and `updated_at` fields",
+      "- [x] **2.** Extended `vocabulary` table with `normalized_form`, `part_of_speech`, `root_form`, and `etymology` fields",
+      "- [x] **3.** Extended `vocabulary_examples` table with `dialect_id` and `source_reference` fields",
+      "- [x] **4.** Created new tables: `dialect_variants`, `lexical_meanings`, `linguistic_annotations`, `lexical_relationships`, `research_collections`, `dialect_audit_logs`",
+      "- [x] **5.** Added foreign key constraints and GIN indexes for full-text search performance"
+    ],
+    "PHASE_7_IMPLEMENTATION_SUMMARY.md": [
+      "# Phase 7: Streaks and Achievements - Implementation Summary",
+      "",
+      "## Overview",
+      "Phase 7 implementation has been completed for the KurdAmuz project, adding comprehensive streak tracking and achievement systems to enhance user engagement and gamification.",
+      "",
+      "## Completed Components",
+      "",
+      "### 1. Database Schema & Migrations ✅",
+      "- **File**: `drizzle/0002_phase7_streaks_achievements.sql`",
+      "- **Tables Created**:"
+    ],
+    "postcss.config.js": [
+      "module.exports = {",
+      "plugins: {",
+      "tailwindcss: {},",
+      "autoprefixer: {},",
+      "},",
+      "};",
+      ""
+    ],
+    "REMEDIATION_STATUS_REPORT.md": [
+      "# Remediation Status Report",
+      "",
+      "## Executive Summary",
+      "All architecture remediation phases (2-7) have been successfully completed. The KurdAmuz platform now has improved performance, security, scalability, and reliability through the implementation of modern architectural patterns and best practices. Final cleanup tasks have been completed to ensure the platform operates within free-tier constraints.",
+      "",
+      "## Completed Phases",
+      "",
+      "### Phase 2: Storage & Background Processing ✅",
+      "**Changes Made:**",
+      "- Replaced Cloudflare R2 with Supabase Storage for asset uploads"
+    ],
+    "replit.nix": [
+      "{pkgs}: {",
+      "deps = [",
+      "pkgs.unzip",
+      "];",
+      "}",
+      ""
+    ],
+    "sentry.client.config.ts.bak": [
+      "import * as Sentry from \"@sentry/nextjs\";",
+      "",
+      "Sentry.init({",
+      "dsn: process.env.GLITCHTIP_DSN || process.env.NEXT_PUBLIC_SENTRY_DSN,",
+      "environment: process.env.NODE_ENV || 'development',",
+      "tracesSampleRate: 1.0,",
+      "replaysSessionSampleRate: 0.1,",
+      "replaysOnErrorSampleRate: 1.0,",
+      "integrations: [",
+      "Sentry.replayIntegration({"
+    ],
+    "sentry.edge.config.ts.bak": [
+      "import * as Sentry from \"@sentry/nextjs\";",
+      "",
+      "Sentry.init({",
+      "dsn: process.env.GLITCHTIP_DSN || process.env.NEXT_PUBLIC_SENTRY_DSN,",
+      "environment: process.env.NODE_ENV || 'development',",
+      "tracesSampleRate: 1.0,",
+      "});",
+      ""
+    ],
+    "sentry.server.config.ts.bak": [
+      "import * as Sentry from \"@sentry/nextjs\";",
+      "",
+      "Sentry.init({",
+      "dsn: process.env.GLITCHTIP_DSN || process.env.NEXT_PUBLIC_SENTRY_DSN,",
+      "environment: process.env.NODE_ENV || 'development',",
+      "tracesSampleRate: 1.0,",
+      "});",
+      ""
+    ],
+    "start.js": [
+      "#!/usr/bin/env node",
+      "/**",
+      "* KURDAMUZ startup wrapper:",
+      "* - Immediately binds port 5000 so Replit's waitForPort check passes",
+      "* - Starts Next.js dev on port 3001, captures stderr for diagnostics",
+      "* - Auto-restarts Next.js with exponential backoff if it dies",
+      "* - Emits heartbeat to prevent idle-kill",
+      "*/",
+      "",
+      "const http = require('http');"
+    ],
+    "STATUS_REPORT_DB_MIGRATION.md": [
+      "# Database Migration Status Report",
+      "",
+      "**Migration Target:** Supabase PostgreSQL → Neon PostgreSQL",
+      "**Date:** June 15, 2026",
+      "**Status:** Partially Complete (Configuration Ready, Migration Blocked)",
+      "",
+      "---",
+      "",
+      "## Executive Summary",
+      ""
+    ],
+    "tailwind.config.ts": [
+      "import type { Config } from \"tailwindcss\";",
+      "",
+      "const config: Config = {",
+      "content: [",
+      "\"./src/pages/**/*.{js,ts,jsx,tsx,mdx}\",",
+      "\"./src/components/**/*.{js,ts,jsx,tsx,mdx}\",",
+      "\"./src/app/**/*.{js,ts,jsx,tsx,mdx}\",",
+      "],",
+      "theme: {",
+      "extend: {"
+    ],
+    "TESTING.md": [
+      "# Phase 2 Testing & Validation Plan",
+      "",
+      "## Testing Checklist",
+      "",
+      "### 1. Database Testing",
+      "- [ ] Verify all 13 tables are created correctly",
+      "- [ ] Test foreign key constraints",
+      "- [ ] Validate seed data integrity",
+      "- [ ] Test RLS policies (if implemented)",
+      "- [ ] Verify relationships work correctly"
+    ],
+    "tsconfig.json": [
+      "{",
+      "\"compilerOptions\": {",
+      "\"target\": \"ES2017\",",
+      "\"lib\": [",
+      "\"dom\",",
+      "\"dom.iterable\",",
+      "\"esnext\"",
+      "],",
+      "\"allowJs\": true,",
+      "\"skipLibCheck\": true,"
+    ],
+    "zipFile.zip": [
+      "version https://git-lfs.github.com/spec/v1",
+      "oid sha256:b2493050bd5b530bcc0657673c07660ef39c8cc11ed94375babd551fee66fe59",
+      "size 22663900",
+      ""
+    ]
+  },
+  "importantFolders": [
+    {
+      "path": ".config",
+      "category": "config",
+      "fileCount": 1
+    },
+    {
+      "path": "attached_assets",
+      "category": "assets",
+      "fileCount": 24
+    },
+    {
+      "path": "public",
+      "category": "assets",
+      "fileCount": 1
+    },
+    {
+      "path": "src\\app",
+      "category": "frontend",
+      "fileCount": 188,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\api",
+      "category": "backend",
+      "fileCount": 110,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\api\\assets",
+      "category": "assets",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\api\\dialects\\examples",
+      "category": "examples",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\api\\placement\\admin\\tests",
+      "category": "tests",
+      "fileCount": 2,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\api\\public",
+      "category": "assets",
+      "fileCount": 13,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\api\\__tests__",
+      "category": "tests",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\[locale]\\admin\\media",
+      "category": "assets",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\[locale]\\dialects\\examples",
+      "category": "examples",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\app\\[locale]\\placement-test",
+      "category": "tests",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\components",
+      "category": "frontend",
+      "fileCount": 115,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\components\\ui",
+      "category": "frontend",
+      "fileCount": 14,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\lib",
+      "category": "core",
+      "fileCount": 142,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\lib\\srs\\__tests__",
+      "category": "tests",
+      "fileCount": 2,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\lib\\__tests__",
+      "category": "tests",
+      "fileCount": 3,
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "path": "src\\types\\__tests__",
+      "category": "tests",
+      "fileCount": 1,
+      "primaryLanguage": "TypeScript"
+    }
+  ],
+  "readmeParagraphs": {},
+  "totals": {
+    "numFiles": 571,
+    "numDirs": 312,
+    "totalSizeBytes": 27763376,
+    "totalLinesOfCode": 64182
+  },
+  "fileCategories": {
+    "documentation": 24,
+    "other": 47,
+    "config": 14,
+    "test": 1,
+    "source": 485
+  },
+  "linesOfCodePerLanguage": {
+    "TypeScript": 63887,
+    "JavaScript": 295
+  },
+  "filesPerLanguage": {
+    "TypeScript": 481,
+    "JavaScript": 4
+  },
+  "projectTypes": [
+    "JavaScript/Node.js"
+  ],
+  "frameworks": [
+    "React",
+    "Next.js"
+  ],
+  "entryPoints": [
+    "start.js"
+  ],
+  "ciCdTools": [],
+  "packageManagers": [
+    "npm/yarn"
+  ],
+  "topLevelDirectories": [
+    {
+      "name": "src",
+      "numFiles": 475,
+      "totalLoc": 63201,
+      "dominantLanguage": "TypeScript"
+    },
+    {
+      "name": "netlify",
+      "numFiles": 6,
+      "totalLoc": 372,
+      "dominantLanguage": "TypeScript"
+    },
+    {
+      "name": "drizzle",
+      "numFiles": 21,
+      "totalLoc": 193,
+      "dominantLanguage": "TypeScript"
+    },
+    {
+      "name": "workers",
+      "numFiles": 1,
+      "totalLoc": 87,
+      "dominantLanguage": "TypeScript"
+    },
+    {
+      "name": "attached_assets",
+      "numFiles": 24,
+      "totalLoc": 0
+    },
+    {
+      "name": "messages",
+      "numFiles": 3,
+      "totalLoc": 0
+    },
+    {
+      "name": "public",
+      "numFiles": 1,
+      "totalLoc": 0
+    },
+    {
+      "name": "screenshots",
+      "numFiles": 1,
+      "totalLoc": 0
+    }
+  ],
+  "detailedDirectories": [
+    {
+      "path": "src",
+      "name": "src",
+      "level": 1,
+      "numFiles": 475,
+      "totalLoc": 63201,
+      "dominantLanguage": "TypeScript",
+      "category": "General",
+      "description": "General module with 475 files (TypeScript)",
+      "subdirectories": [
+        {
+          "path": "src\\app",
+          "name": "app",
+          "level": 2,
+          "numFiles": 188,
+          "totalLoc": 20410,
+          "dominantLanguage": "TypeScript",
+          "category": "Application",
+          "description": "Application module with 188 files (TypeScript)",
+          "subdirectories": [
+            {
+              "path": "src\\app\\api",
+              "name": "api",
+              "level": 3,
+              "numFiles": 110,
+              "totalLoc": 8311,
+              "dominantLanguage": "TypeScript",
+              "category": "Service",
+              "description": "Service module with 110 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\app\\admin",
+              "name": "admin",
+              "level": 3,
+              "numFiles": 20,
+              "totalLoc": 2294,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 20 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\app\\actions",
+              "name": "actions",
+              "level": 3,
+              "numFiles": 1,
+              "totalLoc": 559,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 1 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\app\\courses",
+              "name": "courses",
+              "level": 3,
+              "numFiles": 2,
+              "totalLoc": 169,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 2 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\app\\dashboard",
+              "name": "dashboard",
+              "level": 3,
+              "numFiles": 1,
+              "totalLoc": 80,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 1 files (TypeScript)",
+              "subdirectories": []
+            }
+          ]
+        },
+        {
+          "path": "src\\components",
+          "name": "components",
+          "level": 2,
+          "numFiles": 115,
+          "totalLoc": 9458,
+          "dominantLanguage": "TypeScript",
+          "category": "General",
+          "description": "General module with 115 files (TypeScript)",
+          "subdirectories": [
+            {
+              "path": "src\\components\\admin",
+              "name": "admin",
+              "level": 3,
+              "numFiles": 8,
+              "totalLoc": 1070,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 8 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\components\\community",
+              "name": "community",
+              "level": 3,
+              "numFiles": 8,
+              "totalLoc": 975,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 8 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\components\\analytics",
+              "name": "analytics",
+              "level": 3,
+              "numFiles": 6,
+              "totalLoc": 406,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 6 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\components\\achievements",
+              "name": "achievements",
+              "level": 3,
+              "numFiles": 4,
+              "totalLoc": 350,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 4 files (TypeScript)",
+              "subdirectories": []
+            },
+            {
+              "path": "src\\components\\challenges",
+              "name": "challenges",
+              "level": 3,
+              "numFiles": 3,
+              "totalLoc": 293,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 3 files (TypeScript)",
+              "subdirectories": []
+            }
+          ]
+        },
+        {
+          "path": "src\\db",
+          "name": "db",
+          "level": 2,
+          "numFiles": 8,
+          "totalLoc": 4211,
+          "dominantLanguage": "TypeScript",
+          "category": "General",
+          "description": "General module with 8 files (TypeScript)",
+          "subdirectories": [
+            {
+              "path": "src\\db\\migrations",
+              "name": "migrations",
+              "level": 3,
+              "numFiles": 1,
+              "totalLoc": 172,
+              "dominantLanguage": "TypeScript",
+              "category": "General",
+              "description": "General module with 1 files (TypeScript)",
+              "subdirectories": []
+            }
+          ]
+        },
+        {
+          "path": "src\\hooks",
+          "name": "hooks",
+          "level": 2,
+          "numFiles": 1,
+          "totalLoc": 145,
+          "dominantLanguage": "TypeScript",
+          "category": "General",
+          "description": "General module with 1 files (TypeScript)",
+          "subdirectories": []
+        },
+        {
+          "path": "src\\i18n",
+          "name": "i18n",
+          "level": 2,
+          "numFiles": 2,
+          "totalLoc": 21,
+          "dominantLanguage": "TypeScript",
+          "category": "General",
+          "description": "General module with 2 files (TypeScript)",
+          "subdirectories": []
+        }
+      ]
+    },
+    {
+      "path": "netlify",
+      "name": "netlify",
+      "level": 1,
+      "numFiles": 6,
+      "totalLoc": 372,
+      "dominantLanguage": "TypeScript",
+      "category": "General",
+      "description": "General module with 6 files (TypeScript)",
+      "subdirectories": [
+        {
+          "path": "netlify\\functions",
+          "name": "functions",
+          "level": 2,
+          "numFiles": 6,
+          "totalLoc": 372,
+          "dominantLanguage": "TypeScript",
+          "category": "General",
+          "description": "General module with 6 files (TypeScript)",
+          "subdirectories": []
+        }
+      ]
+    },
+    {
+      "path": "drizzle",
+      "name": "drizzle",
+      "level": 1,
+      "numFiles": 21,
+      "totalLoc": 193,
+      "dominantLanguage": "TypeScript",
+      "category": "General",
+      "description": "General module with 21 files (TypeScript)",
+      "subdirectories": [
+        {
+          "path": "drizzle\\meta",
+          "name": "meta",
+          "level": 2,
+          "numFiles": 2,
+          "totalLoc": 0,
+          "category": "General",
+          "description": "General module with 2 files",
+          "subdirectories": []
+        }
+      ]
+    },
+    {
+      "path": "workers",
+      "name": "workers",
+      "level": 1,
+      "numFiles": 1,
+      "totalLoc": 87,
+      "dominantLanguage": "TypeScript",
+      "category": "General",
+      "description": "General module with 1 files (TypeScript)",
+      "subdirectories": [
+        {
+          "path": "workers\\srs-scheduler",
+          "name": "srs-scheduler",
+          "level": 2,
+          "numFiles": 1,
+          "totalLoc": 87,
+          "dominantLanguage": "TypeScript",
+          "category": "General",
+          "description": "General module with 1 files (TypeScript)",
+          "subdirectories": []
+        }
+      ]
+    },
+    {
+      "path": "attached_assets",
+      "name": "attached_assets",
+      "level": 1,
+      "numFiles": 24,
+      "totalLoc": 0,
+      "category": "General",
+      "description": "General module with 24 files",
+      "subdirectories": []
+    },
+    {
+      "path": "messages",
+      "name": "messages",
+      "level": 1,
+      "numFiles": 3,
+      "totalLoc": 0,
+      "category": "General",
+      "description": "General module with 3 files",
+      "subdirectories": []
+    },
+    {
+      "path": "public",
+      "name": "public",
+      "level": 1,
+      "numFiles": 1,
+      "totalLoc": 0,
+      "category": "General",
+      "description": "General module with 1 files",
+      "subdirectories": []
+    },
+    {
+      "path": "screenshots",
+      "name": "screenshots",
+      "level": 1,
+      "numFiles": 1,
+      "totalLoc": 0,
+      "category": "General",
+      "description": "General module with 1 files",
+      "subdirectories": []
+    }
+  ],
+  "architecturalInsights": {
+    "coreApplications": [],
+    "entryPointDetails": [
+      {
+        "path": "C:\\Users\\Ali\\AppData\\Local\\Programs\\Microsoft VS Code\\start.js",
+        "type": "Unknown",
+        "description": ""
+      }
+    ],
+    "serviceArchitecture": {
+      "microservices": [],
+      "monoliths": [],
+      "libraries": []
+    },
+    "layeredArchitecture": {
+      "presentation": [],
+      "business": [],
+      "data": [],
+      "infrastructure": []
+    }
+  },
+  "largeFiles": [
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_05_54_56_PM_1781619928873.png",
+      "sizeMb": 1.86
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_06_13_17_PM_1781621006190.png",
+      "sizeMb": 1.6
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_06_01_46_PM_1781620317035.png",
+      "sizeMb": 1.44
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_06_05_37_PM_1781620546950.png",
+      "sizeMb": 1.42
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_06_11_23_PM_1781620896000.png",
+      "sizeMb": 1.42
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_43_06_PM_1781615595578.png",
+      "sizeMb": 1.4
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_05_57_56_PM_1781620096115.png",
+      "sizeMb": 1.4
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_05_59_54_PM_1781620204130.png",
+      "sizeMb": 1.4
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_41_12_PM_1781615481582.png",
+      "sizeMb": 1.35
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_32_56_PM_1781615040452.png",
+      "sizeMb": 1.34
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_39_42_PM_1781615394969.png",
+      "sizeMb": 1.33
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_36_59_PM_1781615236290.png",
+      "sizeMb": 1.3
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_06_15_44_PM_1781621157664.png",
+      "sizeMb": 1.28
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_06_03_28_PM_1781620423281.png",
+      "sizeMb": 1.27
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_35_45_PM_1781615163989.png",
+      "sizeMb": 1.26
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_05_54_07_PM_1781619860617.png",
+      "sizeMb": 1.23
+    },
+    {
+      "path": "attached_assets\\ChatGPT_Image_Jun_16,_2026,_04_38_29_PM_1781615324798.png",
+      "sizeMb": 1.18
+    }
+  ],
+  "dependencies": {
+    "production": [
+      "@aws-sdk/client-s3",
+      "@radix-ui/react-scroll-area",
+      "@radix-ui/react-select",
+      "@radix-ui/react-tooltip",
+      "@sentry/nextjs",
+      "@supabase/auth-helpers-nextjs",
+      "@supabase/ssr",
+      "@supabase/supabase-js",
+      "class-variance-authority",
+      "clsx",
+      "date-fns",
+      "drizzle-orm",
+      "lucide-react",
+      "next",
+      "next-intl",
+      "postgres",
+      "react",
+      "react-dom",
+      "tailwind-merge",
+      "zod"
+    ],
+    "development": [
+      "@babel/runtime",
+      "@babel/runtime-corejs3",
+      "@netlify/functions",
+      "@types/jest",
+      "@types/node",
+      "@types/react",
+      "@types/react-dom",
+      "autoprefixer",
+      "dotenv",
+      "drizzle-kit",
+      "eslint",
+      "eslint-config-next",
+      "jest",
+      "postcss",
+      "tailwindcss",
+      "ts-jest",
+      "tsx",
+      "typescript"
+    ],
+    "total": 38
+  },
+  "complexity": {
+    "averageFileSize": 112.40280210157619,
+    "maxFileSize": 19503.513600000002,
+    "nestedDepth": 0,
+    "estimatedComplexity": "high"
+  },
+  "gitRepo": {
+    "firstCommitDate": "2026-06-18",
+    "totalCommits": 5,
+    "numContributors": 0,
+    "currentBranch": "main",
+    "remoteUrls": [
+      "https://github.com/implanhair-pixel/ka_v2.git"
+    ]
+  }
+}

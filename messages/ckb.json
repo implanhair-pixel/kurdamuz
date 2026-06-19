@@ -1,0 +1,184 @@
+{
+  "home": {
+    "title": "کوردئامۆز",
+    "subtitle": "پڕۆگرامی فێرکاری زمانی کوردی بۆ کەسانی بە زمانی فارسی قسەدەکەن"
+  },
+  "nav": {
+    "home": "سەرەتا",
+    "courses": "کۆرسەکان",
+    "lessons": "وانەکان",
+    "vocabulary": "فەرهەنگ",
+    "grammar": "ڕێزمان",
+    "stories": "چیرۆکەکان"
+  },
+  "stories": {
+    "title": "کتابخانەی چیرۆکەکان",
+    "description": "هەنەری خوێندنی کوردی خۆت بە کۆکرەی چیرۆکەکانمان بەرزبکەرەوە",
+    "allStories": "هەموو چیرۆکەکان",
+    "featured": "تایبەت",
+    "trending": "بەناوبانگ",
+    "read": "خوێندن",
+    "difficulty": {
+      "beginner": "سەرەتایی",
+      "intermediate": "ناوەڕاست",
+      "advanced": "پێشکەوتوو"
+    },
+    "status": {
+      "draft": "ڕەشنووس",
+      "published": "بڵاوکراوە",
+      "archived": "ئەرشیفکراو"
+    },
+    "filters": {
+      "all": "هەموو",
+      "folklore": "فۆلکلۆر",
+      "history": "مێژوو",
+      "culture": "کلتوور"
+    },
+    "reader": {
+      "bookmark": "نیشانەکردن",
+      "favorite": "دڵخواز",
+      "progress": "پێشکەوتن",
+      "complete": "تەواوکردن",
+      "continueReading": "بەردەوامبوونی خوێندن"
+    }
+  },
+  "placement": {
+    "title": "تێستینی ئاست",
+    "description": "هەڵسەنگاندنی گشتیی شارەزایی زمانی بۆ دیاریکردنی ئاستی گونجاو",
+    "start": "دەستپێکردنی تێست",
+    "instructions": "ڕێنماییەکان",
+    "assessment": "هەڵسەنگاندن",
+    "results": "ئەنجامەکان",
+    "feedback": "وەڵامدانەوە",
+    "recommendations": "پێشنیارەکان",
+    "questionTypes": {
+      "multipleChoice": "هەڵبژاردنی فرەگەڵ",
+      "trueFalse": "ڕاست/نادروست",
+      "fillBlank": "بەشە بەتاڵەکان پڕبکە",
+      "audioListening": "گوێگرتنی دەنگ",
+      "speaking": "قسەکردن"
+    },
+    "skillDomains": {
+      "reading": "خوێندنەوە",
+      "writing": "نووسین",
+      "listening": "گوێگرتن",
+      "speaking": "قسەکردن",
+      "grammar": "ڕێزمان",
+      "vocabulary": "فەرهەنگ"
+    },
+    "difficulty": {
+      "beginner": "سەرەتایی",
+      "intermediate": "ناوەڕاست",
+      "advanced": "پێشکەوتوو"
+    },
+    "proficiency": {
+      "beginner": "سەرەتایی",
+      "intermediate": "ناوەڕاست",
+      "advanced": "پێشکەوتوو"
+    },
+    "status": {
+      "inProgress": "ئەنجام دەدرێت",
+      "completed": "تەواوکراوە",
+      "abandoned": "بەجێهێشتوو",
+      "expired": "بەسەرچووە"
+    },
+    "messages": {
+      "welcome": "بەخێربێیت بۆ تێستی ئاست",
+      "timeRemaining": "کاتی ماوەماو",
+      "question": "پرسیار",
+      "of": "لە",
+      "submit": "ناردن",
+      "next": "دواتر",
+      "previous": "پێشوو",
+      "finish": "تەواوکردن",
+      "score": "خاڵ",
+      "placement": "دیاریکردنی ئاست",
+      "recommendedLevel": "ئاستی پێشنیارکراو",
+      "overallScore": "خاڵی گشتی",
+      "domainScores": "خاڵی بوارەکان",
+      "retakeTest": "دووبارەکردنەوەی تێست",
+      "viewDetails": "بینینی وردەکارییەکان"
+    }
+  },
+  "xp": {
+    "title": "داشبۆردی XP",
+    "subtitle": "پێشکەوتن و دەستکەوتەکانی خۆت بەدوای بکەوە",
+    "overview": "کۆتایی",
+    "history": "مێژوو",
+    "rewards": "خەڵاتەکان",
+    "leaderboard": "خشتەی ڕیزبەندی",
+    "analytics": "شیکار",
+    "totalXP": "کۆی XP",
+    "currentLevel": "ئاستی ئێستا",
+    "progressToNextLevel": "پێشکەوتن بۆ ئاستی {level}",
+    "xpToNextLevel": "XP بۆ ئاستی دواتر",
+    "xpGrowth": "گەشەی XP",
+    "daily": "ڕۆژانە",
+    "weekly": "هەفتانە",
+    "monthly": "مانگانە",
+    "xpHistory": "مێژووی XP",
+    "recentTransactions": "مامەڵەکانی نوێ",
+    "transactionHistory": "مێژووی مامەڵەی XP",
+    "availableRewards": "خەڵاتە بەردەستەکان",
+    "claimReward": "وەرگرتنی خەڵات",
+    "claimed": "وەرگیراوە",
+    "available": "بەردەست",
+    "expired": "بەسەرچووە",
+    "locked": "قفڵدراوە",
+    "requiredLevel": "ئاستی پێویست",
+    "requiredXP": "XPی پێویست",
+    "leaderboardTitle": "خشتەی ڕیزبەندی",
+    "yourPosition": "شوێنی تۆ",
+    "rank": "ڕیز",
+    "xpGained": "XP بەدەستھێنراو",
+    "activityHeatmap": "خشتەی چالاکی",
+    "currentStreak": "زنجیرەی ئێستا",
+    "activeDays": "ڕۆژە چالاکەکان",
+    "less": "کەمتر",
+    "more": "زیاتر",
+    "admin": {
+      "title": "بەڕێوەبەرایەتی XP",
+      "subtitle": "بەڕێوەبەرایەتی سیستەمی XP، خەڵات و دەستکەوتەکان",
+      "xpAdjustments": "ڕێکخستنەکانی XP",
+      "userLevels": "ئاستەکانی بەکارهێنەر",
+      "rewards": "خەڵاتەکان",
+      "analytics": "شیکار",
+      "quickAdjustment": "ڕێکخستنی خێرای XP",
+      "userId": "ناسنامەی بەکارهێنەر",
+      "xpAmount": "بڕی XP",
+      "reason": "هۆکار",
+      "action": "کردار",
+      "award": "پێدانی XP",
+      "remove": "سڕینەوەی XP",
+      "correct": "ڕاستکردنەوەی XP",
+      "submit": "ناردنی ڕێکخستن",
+      "cancel": "پاشگەزبوونەوە",
+      "recentAuditLogs": "لۆگەکانی پشکنینی نوێ"
+    },
+    "transactionTypes": {
+      "earned": "بەدەستھێنراو",
+      "removed": "سڕاوەتەوە",
+      "corrected": "ڕاستکراوەتەوە"
+    },
+    "sourceTypes": {
+      "lesson_completion": "تەواوکردنی وانە",
+      "quiz_completion": "تەواوکردنی تێست",
+      "course_completion": "تەواوکردنی کۆرس",
+      "daily_login": "چوونەژوورە ڕۆژانە",
+      "streak": "زنجیرە",
+      "achievement": "دەستکەوت",
+      "teacher_award": "خەڵاتی مامۆستا",
+      "admin_bonus": "بۆنەسی بەڕێوەبەر",
+      "special_event": "ڕوودادی تایبەت"
+    },
+    "rewardTypes": {
+      "badge": "نشان",
+      "certificate": "بڕگەنامە",
+      "avatar_item": "ئایتمی ئەڤەتار",
+      "profile_decoration": "جوانکاری پرۆفایل",
+      "course_unlock": "کردنەوەی کۆرس",
+      "special_content": "ناوەڕۆکی تایبەت",
+      "event_access": "دەستپێگەیشتن بە ڕووداد"
+    }
+  }
+}

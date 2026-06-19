@@ -1,0 +1,184 @@
+{
+  "home": {
+    "title": "کوردآموز",
+    "subtitle": "پلتفرم آموزش زبان کردی برای فارسی‌زبانان"
+  },
+  "nav": {
+    "home": "خانه",
+    "courses": "دوره‌ها",
+    "lessons": "درس‌ها",
+    "vocabulary": "واژگان",
+    "grammar": "دستور زبان",
+    "stories": "داستان‌ها"
+  },
+  "stories": {
+    "title": "کتابخانه داستان‌ها",
+    "description": "مهارت‌های خواندن کردی خود را با مجموعه داستان‌های ما بهبود بخشید",
+    "allStories": "همه داستان‌ها",
+    "featured": "ویژه",
+    "trending": "محبوب",
+    "read": "خواندن",
+    "difficulty": {
+      "beginner": "مبتدی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "status": {
+      "draft": "پیش‌نویس",
+      "published": "منتشر شده",
+      "archived": "بایگانی شده"
+    },
+    "filters": {
+      "all": "همه",
+      "folklore": "فولکلور",
+      "history": "تاریخ",
+      "culture": "فرهنگ"
+    },
+    "reader": {
+      "bookmark": "نشان‌گذاری",
+      "favorite": "علاقه‌مندی",
+      "progress": "پیشرفت",
+      "complete": "تکمیل شده",
+      "continueReading": "ادامه خواندن"
+    }
+  },
+  "placement": {
+    "title": "آزمون تعیین سطح",
+    "description": "ارزیابی جامع مهارت‌های زبانی شما برای تعیین سطح مناسب",
+    "start": "شروع آزمون",
+    "instructions": "دستورالعمل‌ها",
+    "assessment": "ارزیابی",
+    "results": "نتایج",
+    "feedback": "بازخورد",
+    "recommendations": "توصیه‌ها",
+    "questionTypes": {
+      "multipleChoice": "انتخاب چندگزینه‌ای",
+      "trueFalse": "صحیح/غلط",
+      "fillBlank": "جای خالی را پر کنید",
+      "audioListening": "گوش دادن به صدا",
+      "speaking": "صحبت کردن"
+    },
+    "skillDomains": {
+      "reading": "خواندن",
+      "writing": "نوشتن",
+      "listening": "گوش دادن",
+      "speaking": "صحبت کردن",
+      "grammar": "دستور زبان",
+      "vocabulary": "واژگان"
+    },
+    "difficulty": {
+      "beginner": "مبتدی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "proficiency": {
+      "beginner": "مبتدی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "status": {
+      "inProgress": "در حال انجام",
+      "completed": "تکمیل شده",
+      "abandoned": "رها شده",
+      "expired": "منقضی شده"
+    },
+    "messages": {
+      "welcome": "به آزمون تعیین سطح خوش آمدید",
+      "timeRemaining": "زمان باقی‌مانده",
+      "question": "سوال",
+      "of": "از",
+      "submit": "ثبت",
+      "next": "بعدی",
+      "previous": "قبلی",
+      "finish": "پایان",
+      "score": "امتیاز",
+      "placement": "تعیین سطح",
+      "recommendedLevel": "سطح پیشنهادی",
+      "overallScore": "امتیاز کلی",
+      "domainScores": "امتیازهای حوزه",
+      "retakeTest": "انجام مجدد آزمون",
+      "viewDetails": "مشاهده جزئیات"
+    }
+  },
+  "xp": {
+    "title": "داشبورد XP",
+    "subtitle": "پیشرفت و دستاوردهای خود را دنبال کنید",
+    "overview": "نمای کلی",
+    "history": "تاریخچه",
+    "rewards": "جوایز",
+    "leaderboard": "جدول رتبه‌بندی",
+    "analytics": "تحلیل‌ها",
+    "totalXP": "مجموع XP",
+    "currentLevel": "سطح فعلی",
+    "progressToNextLevel": "پیشرفت به سطح {level}",
+    "xpToNextLevel": "XP برای سطح بعدی",
+    "xpGrowth": "رشد XP",
+    "daily": "روزانه",
+    "weekly": "هفتگی",
+    "monthly": "ماهانه",
+    "xpHistory": "تاریخچه XP",
+    "recentTransactions": "تراکنش‌های اخیر",
+    "transactionHistory": "تاریخچه تراکنش XP",
+    "availableRewards": "جوایز موجود",
+    "claimReward": "دریافت جایزه",
+    "claimed": "دریافت شده",
+    "available": "موجود",
+    "expired": "منقضی شده",
+    "locked": "قفل شده",
+    "requiredLevel": "سطح مورد نیاز",
+    "requiredXP": "XP مورد نیاز",
+    "leaderboardTitle": "جدول رتبه‌بندی",
+    "yourPosition": "موقعیت شما",
+    "rank": "رتبه",
+    "xpGained": "XP کسب شده",
+    "activityHeatmap": "نقشه فعالیت",
+    "currentStreak": "سری فعلی",
+    "activeDays": "روزهای فعال",
+    "less": "کمتر",
+    "more": "بیشتر",
+    "admin": {
+      "title": "مدیریت XP",
+      "subtitle": "مدیریت سیستم XP، جوایز و دستاوردها",
+      "xpAdjustments": "تنظیمات XP",
+      "userLevels": "سطوح کاربران",
+      "rewards": "جوایز",
+      "analytics": "تحلیل‌ها",
+      "quickAdjustment": "تنظیم سریع XP",
+      "userId": "شناسه کاربر",
+      "xpAmount": "مقدار XP",
+      "reason": "دلیل",
+      "action": "عمل",
+      "award": "اعطای XP",
+      "remove": "حذف XP",
+      "correct": "اصلاح XP",
+      "submit": "ثبت تنظیم",
+      "cancel": "لغو",
+      "recentAuditLogs": "گزارش‌های بازرسی اخیر"
+    },
+    "transactionTypes": {
+      "earned": "کسب شده",
+      "removed": "حذف شده",
+      "corrected": "اصلاح شده"
+    },
+    "sourceTypes": {
+      "lesson_completion": "تکمیل درس",
+      "quiz_completion": "تکمیل آزمون",
+      "course_completion": "تکمیل دوره",
+      "daily_login": "ورود روزانه",
+      "streak": "سری",
+      "achievement": "دستاورد",
+      "teacher_award": "جایزه معلم",
+      "admin_bonus": "پاداش مدیر",
+      "special_event": "رویداد ویژه"
+    },
+    "rewardTypes": {
+      "badge": "نشان",
+      "certificate": "گواهی",
+      "avatar_item": "آیتم آواتار",
+      "profile_decoration": "تزئین پروفایل",
+      "course_unlock": "باز کردن دوره",
+      "special_content": "محتوای ویژه",
+      "event_access": "دسترسی به رویداد"
+    }
+  }
+}

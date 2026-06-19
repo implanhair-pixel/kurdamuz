@@ -1,0 +1,4 @@
+- [KURDAMUZ Dev Auth](kurdamuz-dev-auth.md) — getCurrentUser() returns mock admin user when Supabase URL contains "placeholder"; middleware skips auth checks in same condition
+- [KURDAMUZ Stack & Constraints](kurdamuz-stack.md) — Next.js 14.2.30 only (not 15.x), next-intl 3.26.3, middleware must use createMiddleware from next-intl/middleware to set x-next-intl-locale header
+- [KURDAMUZ Design System](kurdamuz-design.md) — bg #0a1628, card #0d1f38, emerald-500 (#10b981) primary; all pages use dark green premium glassmorphism design
+- [KURDAMUZ Replit SWC Fix](kurdamuz-swc-fix.md) — SWC native binaries cause SIGBUS on Replit NixOS; must be disabled via .babelrc + renamed .node files + @babel/runtime@7.23.9

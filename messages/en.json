@@ -1,0 +1,184 @@
+{
+  "home": {
+    "title": "KurdAmuz",
+    "subtitle": "Kurdish Language Learning Platform for Persian Speakers"
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "vocabulary": "Vocabulary",
+    "grammar": "Grammar",
+    "stories": "Stories"
+  },
+  "stories": {
+    "title": "Stories Library",
+    "description": "Improve your Kurdish reading skills with our collection of stories",
+    "allStories": "All Stories",
+    "featured": "Featured",
+    "trending": "Trending",
+    "read": "Read",
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "status": {
+      "draft": "Draft",
+      "published": "Published",
+      "archived": "Archived"
+    },
+    "filters": {
+      "all": "All",
+      "folklore": "Folklore",
+      "history": "History",
+      "culture": "Culture"
+    },
+    "reader": {
+      "bookmark": "Bookmark",
+      "favorite": "Favorite",
+      "progress": "Progress",
+      "complete": "Mark as Complete",
+      "continueReading": "Continue Reading"
+    }
+  },
+  "placement": {
+    "title": "Placement Test",
+    "description": "Comprehensive language skills assessment to determine your appropriate level",
+    "start": "Start Test",
+    "instructions": "Instructions",
+    "assessment": "Assessment",
+    "results": "Results",
+    "feedback": "Feedback",
+    "recommendations": "Recommendations",
+    "questionTypes": {
+      "multipleChoice": "Multiple Choice",
+      "trueFalse": "True/False",
+      "fillBlank": "Fill in the Blank",
+      "audioListening": "Audio Listening",
+      "speaking": "Speaking"
+    },
+    "skillDomains": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "listening": "Listening",
+      "speaking": "Speaking",
+      "grammar": "Grammar",
+      "vocabulary": "Vocabulary"
+    },
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "proficiency": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "status": {
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "abandoned": "Abandoned",
+      "expired": "Expired"
+    },
+    "messages": {
+      "welcome": "Welcome to the Placement Test",
+      "timeRemaining": "Time Remaining",
+      "question": "Question",
+      "of": "of",
+      "submit": "Submit",
+      "next": "Next",
+      "previous": "Previous",
+      "finish": "Finish",
+      "score": "Score",
+      "placement": "Placement",
+      "recommendedLevel": "Recommended Level",
+      "overallScore": "Overall Score",
+      "domainScores": "Domain Scores",
+      "retakeTest": "Retake Test",
+      "viewDetails": "View Details"
+    }
+  },
+  "xp": {
+    "title": "XP Dashboard",
+    "subtitle": "Track your progress and achievements",
+    "overview": "Overview",
+    "history": "History",
+    "rewards": "Rewards",
+    "leaderboard": "Leaderboard",
+    "analytics": "Analytics",
+    "totalXP": "Total XP",
+    "currentLevel": "Current Level",
+    "progressToNextLevel": "Progress to Level {level}",
+    "xpToNextLevel": "XP to next level",
+    "xpGrowth": "XP Growth",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "xpHistory": "XP History",
+    "recentTransactions": "Recent Transactions",
+    "transactionHistory": "XP Transaction History",
+    "availableRewards": "Available Rewards",
+    "claimReward": "Claim Reward",
+    "claimed": "Claimed",
+    "available": "Available",
+    "expired": "Expired",
+    "locked": "Locked",
+    "requiredLevel": "Required Level",
+    "requiredXP": "Required XP",
+    "leaderboardTitle": "Leaderboard",
+    "yourPosition": "Your Position",
+    "rank": "Rank",
+    "xpGained": "XP Gained",
+    "activityHeatmap": "Activity Heatmap",
+    "currentStreak": "Current Streak",
+    "activeDays": "Active Days",
+    "less": "Less",
+    "more": "More",
+    "admin": {
+      "title": "XP Administration",
+      "subtitle": "Manage XP system, rewards, and achievements",
+      "xpAdjustments": "XP Adjustments",
+      "userLevels": "User Levels",
+      "rewards": "Rewards",
+      "analytics": "Analytics",
+      "quickAdjustment": "Quick XP Adjustment",
+      "userId": "User ID",
+      "xpAmount": "XP Amount",
+      "reason": "Reason",
+      "action": "Action",
+      "award": "Award XP",
+      "remove": "Remove XP",
+      "correct": "Correct XP",
+      "submit": "Submit Adjustment",
+      "cancel": "Cancel",
+      "recentAuditLogs": "Recent Audit Logs"
+    },
+    "transactionTypes": {
+      "earned": "Earned",
+      "removed": "Removed",
+      "corrected": "Corrected"
+    },
+    "sourceTypes": {
+      "lesson_completion": "Lesson Completion",
+      "quiz_completion": "Quiz Completion",
+      "course_completion": "Course Completion",
+      "daily_login": "Daily Login",
+      "streak": "Streak",
+      "achievement": "Achievement",
+      "teacher_award": "Teacher Award",
+      "admin_bonus": "Admin Bonus",
+      "special_event": "Special Event"
+    },
+    "rewardTypes": {
+      "badge": "Badge",
+      "certificate": "Certificate",
+      "avatar_item": "Avatar Item",
+      "profile_decoration": "Profile Decoration",
+      "course_unlock": "Course Unlock",
+      "special_content": "Special Content",
+      "event_access": "Event Access"
+    }
+  }
+}
