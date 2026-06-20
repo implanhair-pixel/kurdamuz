@@ -1,0 +1,166 @@
+[
+  {
+    "id": "kur-w-001",
+    "kurdish": "Silav",
+    "transliteration": "Silav",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "Silav, navê te çiye?",
+        "transliteration": "Silav, navê te çiye?",
+        "translation": "سلام، اسمت چیه؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "kur-w-002",
+    "kurdish": "Spas",
+    "transliteration": "Spas",
+    "persian": "ممنون / متشکرم",
+    "english": "Thank you",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "Gelek spas",
+        "transliteration": "Gelek spas",
+        "translation": "خیلی ممنون"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "kur-w-003",
+    "kurdish": "Bi xêr hatî",
+    "transliteration": "Bi xêr hatî",
+    "persian": "خوش آمدی",
+    "english": "Welcome",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "kur-w-004",
+    "kurdish": "Nav",
+    "transliteration": "Nav",
+    "persian": "اسم / نام",
+    "english": "Name",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "Navê min Azad e",
+        "transliteration": "Navê min Azad e",
+        "translation": "اسم من آزاد است"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "identity"]
+  },
+  {
+    "id": "kur-w-005",
+    "kurdish": "Erê",
+    "transliteration": "Erê",
+    "persian": "بله",
+    "english": "Yes",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic"]
+  },
+  {
+    "id": "kur-w-006",
+    "kurdish": "Na",
+    "transliteration": "Na",
+    "persian": "نه / خیر",
+    "english": "No",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic"]
+  },
+  {
+    "id": "kur-w-007",
+    "kurdish": "Yek",
+    "transliteration": "Yek",
+    "persian": "یک",
+    "english": "One",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "kur-w-008",
+    "kurdish": "Du",
+    "transliteration": "Du",
+    "persian": "دو",
+    "english": "Two",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "kur-w-009",
+    "kurdish": "Dest",
+    "transliteration": "Dest",
+    "persian": "دست",
+    "english": "Hand",
+    "category": "body",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["body", "basic"]
+  },
+  {
+    "id": "kur-w-010",
+    "kurdish": "Nan",
+    "transliteration": "Nan",
+    "persian": "نان",
+    "english": "Bread",
+    "category": "food",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "Nan germ e",
+        "transliteration": "Nan germ e",
+        "translation": "نان گرم است"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["food", "basic"]
+  }
+]

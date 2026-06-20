@@ -1,0 +1,21 @@
+[
+  {
+    "id": "bad-p-001",
+    "kurdish": "تو چاوا یی؟",
+    "transliteration": "Tu çawa yî?",
+    "persian": "چطوری؟",
+    "english": "How are you?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": {
+      "kurdish": "باشم، سپاس",
+      "transliteration": "Baş im, spas",
+      "persian": "خوبم، ممنون"
+    },
+    "notes": "بادینی به‌لحاظ گرامری به کرمانجی شمالی نزدیک است؛ تفاوت اصلی در تلفظ و واژگان محلی است",
+    "audioUrl": null,
+    "tags": ["social", "basic"]
+  }
+]

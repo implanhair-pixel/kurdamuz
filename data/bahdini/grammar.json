@@ -1,0 +1,33 @@
+[
+  {
+    "id": "bad-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "بادینی زیرشاخه‌ای از کردی شمالی (کرمانجی) است که در کردستان عراق و نواحی اطراف آن رایج است. ساختار ضمایر شخصی آن بسیار به کرمانجی استاندارد نزدیک است.",
+      "english": "Bahdini is a sub-variety of Northern Kurdish (Kurmanji) spoken in Iraqi Kurdistan and surrounding areas. Its personal pronoun structure closely resembles standard Kurmanji."
+    },
+    "rules": [
+      {
+        "rule": "ئەز = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "ئەز باشم",
+          "transliteration": "Ez baş im",
+          "persian": "من خوبم"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["ئەز", "Ez", "من"],
+        ["تو", "Tu", "تو"],
+        ["ئەو", "Ew", "او"]
+      ]
+    },
+    "exercises": [],
+    "tags": ["foundation", "essential"]
+  }
+]

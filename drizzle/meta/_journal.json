@@ -1,0 +1,146 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1781396629128,
+      "tag": "0000_eager_tempest",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1781396630128,
+      "tag": "0001_phase3_vocabulary_system",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1781396631128,
+      "tag": "0002_phase7_streaks_achievements",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1781396632128,
+      "tag": "0002_phase8_daily_challenges",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1781396633128,
+      "tag": "0002_phase9_wallet_system",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1781396634128,
+      "tag": "0003_phase9_mission_system",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1781396635128,
+      "tag": "0002_phase11_learning_paths",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1781396636128,
+      "tag": "0003_phase13_dialect_comparison",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1781396637128,
+      "tag": "0004_phase4_stories",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1781396638128,
+      "tag": "0005_phase5_srs",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1781396639128,
+      "tag": "0006_phase6_xp_leveling",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1781396640128,
+      "tag": "0010_phase10_placement_test",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1781396641128,
+      "tag": "0012_phase12_community",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1781396642128,
+      "tag": "0015_phase5_query_optimization",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1781396643128,
+      "tag": "0016_phase7_precomputed_leaderboards",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1781396644128,
+      "tag": "0017_phase7_notification_queue",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1781396645128,
+      "tag": "0018_phase7_word_of_day",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1781396646128,
+      "tag": "0019_phase7_analytics_aggregation",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1781396647128,
+      "tag": "0020_phase_courses_purchase_workflow",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1781396648128,
+      "tag": "0021_phase_profiles",
+      "breakpoints": true
+    }
+  ]
+}

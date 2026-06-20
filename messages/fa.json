@@ -1,0 +1,508 @@
+{
+  "home": {
+    "title": "کوردآموز",
+    "subtitle": "پلتفرم آموزش زبان کردی برای فارسی‌زبانان",
+    "brand": "کوردآموز",
+    "nav": {
+      "learn": "آموزش",
+      "courses": "دوره‌ها",
+      "community": "انجمن",
+      "progress": "پیشرفت"
+    },
+    "login": "ورود",
+    "createAccount": "ساخت حساب",
+    "hero": {
+      "badge": "پلتفرم پیشرفته‌ی یادگیری کردی",
+      "titleLine1": "زبان کردی را",
+      "titleLine2": "با دقت یاد بگیر",
+      "subtitle": "پلتفرمی مدرن که پیشرفت ساختاریافته، تمرین هوشمند و مکانیزم‌های آموزشی پاداش‌محور را با هم ترکیب می‌کند.",
+      "startLearning": "شروع آموزش",
+      "exploreCurriculum": "مشاهده‌ی دوره‌ها",
+      "learnersCount": "۱۲٬۵۸۰+ زبان‌آموز",
+      "rating": "امتیاز ۴.۹"
+    },
+    "stats": {
+      "xpProgress": "پیشرفت XP",
+      "coins": "سکه",
+      "level": "سطح",
+      "streak": "استریک"
+    },
+    "features": {
+      "title": "چرا کوردآموز؟",
+      "precision": {
+        "title": "یادگیری دقیق",
+        "desc": "الگوریتم تکرار زمان‌بندی‌شده (مشابه Anki) یادآوری واژگان را در بازه‌های بهینه تضمین می‌کند."
+      },
+      "gamified": {
+        "title": "پیشرفت گیمیفای‌شده",
+        "desc": "XP کسب کن، نشان باز کن، استریک نگه‌دار و در جدول امتیازات بالا برو."
+      },
+      "community": {
+        "title": "انجمن زنده",
+        "desc": "با هزاران زبان‌آموز کردی در ارتباط باش، سؤال بپرس و با هم یاد بگیرید."
+      },
+      "missions": {
+        "title": "ماموریت‌های روزانه",
+        "desc": "چالش‌های روزانه را کامل کن و XP و سکه‌ی اضافه بگیر."
+      },
+      "analytics": {
+        "title": "تحلیل دقیق",
+        "desc": "سرعت یادگیری، دقت، زمان صرف‌شده و نقاط قوت/ضعف خودت را دنبال کن."
+      },
+      "dialects": {
+        "title": "همه‌ی گویش‌های کردی",
+        "desc": "سورانی، کرمانجی، بادینی، کلهری، لکی، هورامی و جافی — همه با محتوای اختصاصی."
+      }
+    },
+    "dialectsSection": {
+      "title": "گویش‌های کردی",
+      "subtitle": "هر گویش با محتوای اختصاصی و تلفظ بومی"
+    },
+    "cta": {
+      "title": "همین امروز شروع کن",
+      "subtitle": "به ۱۲٬۵۸۰+ زبان‌آموز کردی بپیوند. رایگان شروع کن — بدون نیاز به کارت بانکی.",
+      "createFreeAccount": "ساخت حساب رایگان",
+      "watchDemo": "دیدن دمو",
+      "freeForever": "طرح رایگان همیشگی",
+      "noCard": "بدون کارت بانکی",
+      "cancelAnytime": "هر زمان لغو کن"
+    },
+    "footer": {
+      "tagline": "پلتفرم زبان کردی",
+      "about": "درباره ما",
+      "privacy": "حریم خصوصی",
+      "terms": "قوانین"
+    },
+    "languages": {
+      "en": "English",
+      "fa": "فارسی",
+      "ckb": "کوردی"
+    }
+  },
+  "nav": {
+    "home": "خانه",
+    "courses": "دوره‌ها",
+    "lessons": "درس‌ها",
+    "vocabulary": "واژگان",
+    "grammar": "دستور زبان",
+    "stories": "داستان‌ها"
+  },
+  "stories": {
+    "title": "کتابخانه داستان‌ها",
+    "description": "مهارت‌های خواندن کردی خود را با مجموعه داستان‌های ما بهبود بخشید",
+    "allStories": "همه داستان‌ها",
+    "featured": "ویژه",
+    "trending": "محبوب",
+    "read": "خواندن",
+    "difficulty": {
+      "beginner": "مبتدی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "status": {
+      "draft": "پیش‌نویس",
+      "published": "منتشر شده",
+      "archived": "بایگانی شده"
+    },
+    "filters": {
+      "all": "همه",
+      "folklore": "فولکلور",
+      "history": "تاریخ",
+      "culture": "فرهنگ"
+    },
+    "reader": {
+      "bookmark": "نشان‌گذاری",
+      "favorite": "علاقه‌مندی",
+      "progress": "پیشرفت",
+      "complete": "تکمیل شده",
+      "continueReading": "ادامه خواندن"
+    }
+  },
+  "placement": {
+    "title": "تعیین سطح",
+    "description": "سطح زبان کردی خود را کشف کنید",
+    "start": "شروع آزمون",
+    "instructions": "دستورالعمل‌ها",
+    "assessment": "ارزیابی",
+    "results": "نتایج",
+    "feedback": "بازخورد",
+    "recommendations": "توصیه‌ها",
+    "questionTypes": {
+      "multipleChoice": "انتخاب چندگزینه‌ای",
+      "trueFalse": "صحیح/غلط",
+      "fillBlank": "جای خالی را پر کنید",
+      "audioListening": "گوش دادن به صدا",
+      "speaking": "صحبت کردن"
+    },
+    "skillDomains": {
+      "reading": "خواندن",
+      "writing": "نوشتن",
+      "listening": "شنیدن",
+      "speaking": "گفتار",
+      "grammar": "گرامر",
+      "vocabulary": "واژگان"
+    },
+    "difficulty": {
+      "beginner": "مبتدی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "proficiency": {
+      "beginner": "مبتدی",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته"
+    },
+    "status": {
+      "inProgress": "در حال انجام",
+      "completed": "تکمیل شده",
+      "abandoned": "رها شده",
+      "expired": "منقضی شده"
+    },
+    "messages": {
+      "welcome": "به آزمون تعیین سطح خوش آمدید",
+      "timeRemaining": "زمان باقی‌مانده",
+      "question": "سوال",
+      "of": "از",
+      "submit": "ثبت",
+      "next": "بعدی",
+      "previous": "قبلی",
+      "finish": "پایان",
+      "score": "امتیاز",
+      "placement": "تعیین سطح",
+      "recommendedLevel": "سطح توصیه‌شده",
+      "overallScore": "نمره کلی",
+      "domainScores": "نمرات حوزه‌ها",
+      "retakeTest": "انجام مجدد آزمون",
+      "viewDetails": "مشاهده جزئیات"
+    },
+    "overallScore": "نمره کلی",
+    "recommendedLevel": "سطح توصیه‌شده",
+    "domainScores": "نمرات حوزه‌ها"
+  },
+  "xp": {
+    "title": "داشبورد XP",
+    "subtitle": "پیشرفت و دستاوردهای خود را دنبال کنید",
+    "overview": "نمای کلی",
+    "history": "تاریخچه",
+    "rewards": "جوایز",
+    "leaderboard": "جدول رتبه‌بندی",
+    "analytics": "تحلیل‌ها",
+    "totalXP": "مجموع XP",
+    "currentLevel": "سطح فعلی",
+    "progressToNextLevel": "پیشرفت به سطح {level}",
+    "xpToNextLevel": "XP برای سطح بعدی",
+    "xpGrowth": "رشد XP",
+    "daily": "روزانه",
+    "weekly": "هفتگی",
+    "monthly": "ماهانه",
+    "xpHistory": "تاریخچه XP",
+    "recentTransactions": "تراکنش‌های اخیر",
+    "transactionHistory": "تاریخچه تراکنش XP",
+    "availableRewards": "جوایز موجود",
+    "claimReward": "دریافت جایزه",
+    "claimed": "دریافت شده",
+    "available": "موجود",
+    "expired": "منقضی شده",
+    "locked": "قفل شده",
+    "requiredLevel": "سطح مورد نیاز",
+    "requiredXP": "XP مورد نیاز",
+    "leaderboardTitle": "جدول رتبه‌بندی",
+    "yourPosition": "موقعیت شما",
+    "rank": "رتبه",
+    "xpGained": "XP کسب شده",
+    "activityHeatmap": "نقشه فعالیت",
+    "currentStreak": "سری فعلی",
+    "activeDays": "روزهای فعال",
+    "less": "کمتر",
+    "more": "بیشتر",
+    "admin": {
+      "title": "مدیریت XP",
+      "subtitle": "مدیریت سیستم XP، جوایز و دستاوردها",
+      "xpAdjustments": "تنظیمات XP",
+      "userLevels": "سطوح کاربران",
+      "rewards": "جوایز",
+      "analytics": "تحلیل‌ها",
+      "quickAdjustment": "تنظیم سریع XP",
+      "userId": "شناسه کاربر",
+      "xpAmount": "مقدار XP",
+      "reason": "دلیل",
+      "action": "عمل",
+      "award": "اعطای XP",
+      "remove": "حذف XP",
+      "correct": "اصلاح XP",
+      "submit": "ثبت تنظیم",
+      "cancel": "لغو",
+      "recentAuditLogs": "گزارش‌های بازرسی اخیر"
+    },
+    "transactionTypes": {
+      "earned": "کسب شده",
+      "removed": "حذف شده",
+      "corrected": "اصلاح شده"
+    },
+    "sourceTypes": {
+      "lesson_completion": "تکمیل درس",
+      "quiz_completion": "تکمیل آزمون",
+      "course_completion": "تکمیل دوره",
+      "daily_login": "ورود روزانه",
+      "streak": "سری",
+      "achievement": "دستاورد",
+      "teacher_award": "جایزه معلم",
+      "admin_bonus": "پاداش مدیر",
+      "special_event": "رویداد ویژه"
+    },
+    "rewardTypes": {
+      "badge": "نشان",
+      "certificate": "گواهی",
+      "avatar_item": "آیتم آواتار",
+      "profile_decoration": "تزئین پروفایل",
+      "course_unlock": "باز کردن دوره",
+      "special_content": "محتوای ویژه",
+      "event_access": "دسترسی به رویداد"
+    }
+  },
+  "learning_paths": {
+    "title": "مسیرهای یادگیری",
+    "description": "مسیرهای یادگیری ساختاریافته برای یادگیری زبان کردی",
+    "view_all": "مشاهده همه",
+    "start_learning": "شروع یادگیری",
+    "continue_learning": "ادامه یادگیری",
+    "progress": "پیشرفت",
+    "completed": "تکمیل شده",
+    "in_progress": "در حال انجام",
+    "not_started": "شروع نشده",
+    "modules": "ماژول‌ها",
+    "lessons": "درس‌ها",
+    "activities": "فعالیت‌ها",
+    "assessments": "ارزیابی‌ها",
+    "duration": "مدت زمان",
+    "difficulty": "سختی",
+    "beginner": "مبتدی",
+    "intermediate": "متوسط",
+    "advanced": "پیشرفته",
+    "certificate": "گواهی‌نامه",
+    "certificates": "گواهی‌نامه‌ها",
+    "enroll": "ثبت‌نام",
+    "enrolled": "ثبت‌نام شده",
+    "unenroll": "لغو ثبت‌نام",
+    "recommendations": "توصیه‌ها",
+    "dashboard": "داشبورد یادگیری",
+    "my_progress": "پیشرفت من",
+    "my_certificates": "گواهی‌نامه‌های من",
+    "program": "برنامه",
+    "programs": "برنامه‌ها",
+    "path": "مسیر",
+    "paths": "مسیرها",
+    "module": "ماژول",
+    "lesson": "درس",
+    "activity": "فعالیت",
+    "assessment": "ارزیابی",
+    "complete": "تکمیل",
+    "completed_at": "تکمیل شده در",
+    "estimated_time": "زمان تخمینی",
+    "hours": "ساعت",
+    "minutes": "دقیقه",
+    "locked": "قفل شده",
+    "unlocked": "باز شده",
+    "next_lesson": "درس بعدی",
+    "previous_lesson": "درس قبلی",
+    "finish_lesson": "تکمیل درس",
+    "no_programs": "هیچ برنامه‌ای یافت نشد",
+    "no_paths": "هیچ مسیری یافت نشد",
+    "no_modules": "هیچ ماژولی یافت نشد",
+    "no_lessons": "هیچ درسی یافت نشد",
+    "no_activities": "هیچ فعالیتی یافت نشد",
+    "no_assessments": "هیچ ارزیابی‌ای یافت نشد",
+    "no_certificates": "هیچ گواهی‌نامه‌ای یافت نشد",
+    "no_recommendations": "هیچ توصیه‌ای یافت نشد",
+    "back_to_paths": "بازگشت به مسیرها",
+    "back_to_dashboard": "بازگشت به داشبورد",
+    "view_certificate": "مشاهده گواهی‌نامه",
+    "download_certificate": "دانلود گواهی‌نامه",
+    "certificate_number": "شماره گواهی‌نامه",
+    "issued_date": "تاریخ صدور",
+    "status": "وضعیت",
+    "active": "فعال",
+    "inactive": "غیرفعال",
+    "draft": "پیش‌نویس",
+    "archived": "بایگانی شده",
+    "admin": {
+      "title": "مدیریت مسیرهای یادگیری",
+      "create_program": "ایجاد برنامه",
+      "create_path": "ایجاد مسیر",
+      "create_module": "ایجاد ماژول",
+      "create_lesson": "ایجاد درس",
+      "edit": "ویرایش",
+      "delete": "حذف",
+      "save": "ذخیره",
+      "cancel": "لغو",
+      "back": "بازگشت",
+      "program_name": "نام برنامه",
+      "program_description": "توضیحات برنامه",
+      "program_type": "نوع برنامه",
+      "path_name": "نام مسیر",
+      "path_description": "توضیحات مسیر",
+      "module_title": "عنوان ماژول",
+      "module_description": "توضیحات ماژول",
+      "lesson_title": "عنوان درس",
+      "lesson_content": "محتوای درس",
+      "add_module": "افزودن ماژول",
+      "add_lesson": "افزودن درس",
+      "manage_content": "مدیریت محتوا",
+      "view_analytics": "مشاهده تحلیل‌ها",
+      "view_progress": "مشاهده پیشرفت"
+    }
+  },
+  "library": {
+    "titles": {
+      "vocabulary": "واژگان",
+      "grammar": "دستور زبان"
+    },
+    "descriptions": {
+      "vocabulary": "واژگان کردی را بر اساس گویش مرور کنید.",
+      "grammar": "نکات و مثال‌های دستور زبان را از فایل‌های محلی ببینید."
+    },
+    "searchPlaceholders": {
+      "vocabulary": "جستجوی واژه...",
+      "grammar": "جستجوی موضوع دستوری..."
+    },
+    "loading": "در حال بارگذاری...",
+    "empty": {
+      "vocabulary": "واژه‌ای یافت نشد.",
+      "grammar": "موضوع دستوری یافت نشد."
+    },
+    "allDialects": "همه گویش‌ها",
+    "labels": {
+      "persian": "فارسی",
+      "english": "English",
+      "transliteration": "آوانویسی",
+      "dialect": "گویش",
+      "difficulty": "سطح",
+      "category": "دسته"
+    },
+    "difficulty": {
+      "beginner": "مبتدی",
+      "basic": "پایه",
+      "intermediate": "متوسط",
+      "advanced": "پیشرفته",
+      "expert": "حرفه‌ای"
+    },
+    "errors": {
+      "loadFailed": "بارگذاری محتوا ناموفق بود",
+      "unknown": "خطای ناشناخته"
+    },
+    "dialects": {
+      "sorani": "سورانی",
+      "kurmanji": "کرمانجی",
+      "bahdini": "بادینی",
+      "kalhory": "کلهری",
+      "leki": "لکی",
+      "hawrami": "هورامی",
+      "jafi": "جافی"
+    }
+  },
+  "sidebar": {
+    "brand": "KURDAMUZ",
+    "subtitle": "کوردآموز",
+    "dashboard": "داشبورد",
+    "learning": "یادگیری",
+    "courses": "دوره‌ها",
+    "practice": "تمرین",
+    "community": "انجمن",
+    "leaderboard": "جدول امتیاز",
+    "achievements": "دستاوردها"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "description": "به داشبوردت برگشتی! اینجا نمای کلی پیشرفت یادگیری تو دیده می‌شود.",
+    "currentLevel": "سطح فعلی",
+    "totalXpEarned": "کل XP کسب‌شده",
+    "progressToLevel": "پیشرفت تا سطح {level}",
+    "complete": "تکمیل‌شده",
+    "level": "سطح",
+    "xpThisWeek": "XP این هفته",
+    "experiencePoints": "امتیاز تجربه",
+    "coins": "سکه‌ها",
+    "availableCoins": "سکه‌های در دسترس",
+    "streak": "استریک",
+    "daysInRow": "روزهای پیاپی",
+    "recentActivity": "فعالیت‌های اخیر",
+    "noRecentActivity": "هنوز فعالیت اخیری ثبت نشده است.",
+    "loading": "در حال بارگذاری"
+  },
+  "auth": {
+    "welcomeBack": "خوش برگشتی",
+    "signInDescription": "برای ادامه‌ی مسیر یادگیری کردی وارد حساب خودت شو",
+    "continueWithGoogle": "ادامه با Google",
+    "orSignInWithEmail": "یا با ایمیل وارد شو",
+    "emailAddress": "آدرس ایمیل",
+    "password": "رمز عبور",
+    "showPassword": "نمایش رمز عبور",
+    "hidePassword": "مخفی‌کردن رمز عبور",
+    "rememberMe": "مرا به خاطر بسپار",
+    "forgotPassword": "رمز عبور را فراموش کردی؟",
+    "noAccount": "حساب کاربری نداری؟",
+    "createAccount": "ساخت حساب",
+    "backToHome": "بازگشت به خانه",
+    "checkYourEmail": "ایمیلت را بررسی کن",
+    "emailSentTo": "ما لینک تأیید را به {email} فرستادیم.",
+    "pleaseVerify": "لطفاً ایمیلت را تأیید کن تا ادامه بدهی.",
+    "goToLogin": "رفتن به ورود",
+    "createYourAccount": "حساب خودت را بساز",
+    "startJourney": "مسیر یادگیری کردی را از امروز شروع کن — رایگان است",
+    "signUpWithGoogle": "ثبت‌نام با Google",
+    "orSignUpWithEmail": "یا با ایمیل ثبت‌نام کن",
+    "fullName": "نام کامل",
+    "yourName": "نام شما",
+    "minCharacters": "حداقل ۸ کاراکتر",
+    "confirmPassword": "تأیید رمز عبور",
+    "reEnterPassword": "رمز عبور را دوباره وارد کن",
+    "passwordsDoNotMatch": "رمزهای عبور با هم مطابقت ندارند",
+    "passwordMinLength": "رمز عبور باید حداقل ۸ کاراکتر باشد",
+    "checkInbox": "صندوق ورودی‌ات را بررسی کن",
+    "sentResetLink": "ما لینک بازنشانی رمز را برای {email} فرستادیم.",
+    "backToSignIn": "بازگشت به ورود",
+    "resetYourPassword": "رمز عبور خودت را بازنشانی کن",
+    "enterEmailToReset": "ایمیل خودت را وارد کن تا لینک بازنشانی برایت ارسال شود.",
+    "sendResetLink": "ارسال لینک بازنشانی",
+    "rememberYourPassword": "رمزت را یادت آمد؟",
+    "signIn": "ورود",
+    "newPasswordUpdated": "رمز عبور به‌روزرسانی شد",
+    "chooseNewPassword": "یک رمز عبور جدید انتخاب کن",
+    "enterSecurePassword": "برای حساب Kurdamuz یک رمز امن وارد کن.",
+    "newPassword": "رمز عبور جدید",
+    "passwordUpdatedDescription": "رمز عبور تو بازنشانی شد. حالا می‌توانی با اطلاعات جدید وارد شوی.",
+    "updatePassword": "به‌روزرسانی رمز عبور"
+  },
+  "courses": {
+    "home": "خانه",
+    "courses": "دوره‌ها",
+    "dashboard": "داشبورد",
+    "badge": "مسیرهای ساختارمند یادگیری",
+    "title1": "همه‌ی",
+    "title2": "دوره‌ها",
+    "subtitle": "از سطح مبتدی تا پیشرفته. هر دوره برای بیشترین ماندگاری و کاربرد واقعی طراحی شده است.",
+    "lessons": "درس",
+    "levels": {
+      "Beginner": "مبتدی",
+      "Intermediate": "متوسط",
+      "Advanced": "پیشرفته"
+    }
+  },
+  "leaderboard": {
+    "dashboard": "داشبورد",
+    "learn": "یادگیری",
+    "courses": "دوره‌ها",
+    "practice": "تمرین",
+    "community": "انجمن",
+    "achievements": "دستاوردها",
+    "title": "جدول امتیاز جهانی",
+    "subtitle": "با زبان‌آموزان کردی در سراسر جهان رقابت کن. هر ساعت به‌روزرسانی می‌شود.",
+    "weekly": "هفتگی",
+    "monthly": "ماهانه",
+    "allTime": "همه‌زمان",
+    "rank": "رتبه",
+    "xp": "XP",
+    "streak": "استریک",
+    "level": "سطح"
+  }
+}

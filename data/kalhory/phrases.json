@@ -1,0 +1,51 @@
+[
+  {
+    "id": "kal-p-001",
+    "kurdish": "چۆنی؟",
+    "transliteration": "Çonî?",
+    "persian": "چطوری؟",
+    "english": "How are you?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": {
+      "kurdish": "باشم، سوپاس",
+      "transliteration": "Başim, supas",
+      "persian": "خوبم، ممنون"
+    },
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["social", "basic"]
+  },
+  {
+    "id": "kal-p-002",
+    "kurdish": "ناوت چیە؟",
+    "transliteration": "Nawit çiye?",
+    "persian": "اسمت چیه؟",
+    "english": "What is your name?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": null,
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["introductions"]
+  },
+  {
+    "id": "kal-p-003",
+    "kurdish": "خوات حافز",
+    "transliteration": "Xwat hafiz",
+    "persian": "خداحافظ",
+    "english": "Goodbye",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "statement",
+    "context": "spoken",
+    "response": null,
+    "notes": "فرم خداحافظی محاوره‌ای",
+    "audioUrl": null,
+    "tags": ["social", "basic"]
+  }
+]

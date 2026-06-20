@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kur-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "در کردی کرمانجی، برخلاف سورانی، فعل دارای حالت‌های ergative است که با فاعل و مفعول هماهنگ می‌شود. ضمایر شخصی پایه با کرمانجی این‌گونه‌اند.",
+      "english": "In Kurmanji Kurdish, unlike Sorani, verbs have ergative case marking that agrees with subject and object. The basic personal pronouns are as follows."
+    },
+    "rules": [
+      {
+        "rule": "Ez = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "Ez baş im",
+          "transliteration": "Ez baş im",
+          "persian": "من خوبم"
+        }
+      },
+      {
+        "rule": "Tu = تو (دوم شخص مفرد)",
+        "example": {
+          "kurdish": "Tu çawa yî?",
+          "transliteration": "Tu çawa yî?",
+          "persian": "تو چطوری؟"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["Ez", "Ez", "من"],
+        ["Tu", "Tu", "تو"],
+        ["Ew", "Ew", "او"],
+        ["Em", "Em", "ما"],
+        ["Hûn", "Hûn", "شما"],
+        ["Ew", "Ew", "آن‌ها"]
+      ]
+    },
+    "exercises": [
+      {
+        "question": "ترجمه کن: «من خوبم»",
+        "answer": "Ez baş im",
+        "hint": "از ضمیر Ez استفاده کن"
+      }
+    ],
+    "tags": ["foundation", "essential"]
+  }
+]

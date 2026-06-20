@@ -1,0 +1,90 @@
+[
+  {
+    "id": "kal-w-001",
+    "kurdish": "سلاو",
+    "transliteration": "Selaw",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "سلاو، چۆنی؟",
+        "transliteration": "Selaw, çonî?",
+        "translation": "سلام، چطوری؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "kal-w-002",
+    "kurdish": "زۆر سوپاس",
+    "transliteration": "Zor supas",
+    "persian": "خیلی ممنون",
+    "english": "Thank you very much",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "kal-w-003",
+    "kurdish": "ئاو",
+    "transliteration": "Aw",
+    "persian": "آب",
+    "english": "Water",
+    "category": "food",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "ئاوم پێ بدە",
+        "transliteration": "Awim pê bide",
+        "translation": "آب به من بده"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "daily"]
+  },
+  {
+    "id": "kal-w-004",
+    "kurdish": "یەک",
+    "transliteration": "Yek",
+    "persian": "یک",
+    "english": "One",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers"]
+  },
+  {
+    "id": "kal-w-005",
+    "kurdish": "دا",
+    "transliteration": "Da",
+    "persian": "مادر",
+    "english": "Mother",
+    "category": "family",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "دام خۆشمەویست",
+        "transliteration": "Dam xoşmewîst",
+        "translation": "مادرم را دوست دارم"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["family", "basic"]
+  }
+]

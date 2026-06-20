@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lek-w-001",
+    "kurdish": "سلام",
+    "transliteration": "Salam",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "سلام، چنیی؟",
+        "transliteration": "Salam, çenî?",
+        "translation": "سلام، چطوری؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "lek-w-002",
+    "kurdish": "سوپاس",
+    "transliteration": "Supas",
+    "persian": "ممنون",
+    "english": "Thank you",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "lek-w-003",
+    "kurdish": "نان",
+    "transliteration": "Nan",
+    "persian": "نان",
+    "english": "Bread",
+    "category": "food",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["food", "basic"]
+  },
+  {
+    "id": "lek-w-004",
+    "kurdish": "یک",
+    "transliteration": "Yek",
+    "persian": "یک",
+    "english": "One",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers"]
+  },
+  {
+    "id": "lek-w-005",
+    "kurdish": "باوک",
+    "transliteration": "Bawik",
+    "persian": "پدر",
+    "english": "Father",
+    "category": "family",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["family", "basic"]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "lek-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "در لکی، که یکی از گویش‌های کردی جنوبی منطقه‌ی لرستان است، ضمایر شخصی شباهت زیادی به کلهری دارند اما برخی واکه‌ها متفاوت تلفظ می‌شوند.",
+      "english": "In Leki, a Southern Kurdish dialect of the Lorestan region, personal pronouns closely resemble Kalhori but with some differing vowel pronunciations."
+    },
+    "rules": [
+      {
+        "rule": "من = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "من قسه که‌م",
+          "transliteration": "Min qise kem",
+          "persian": "من صحبت می‌کنم"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["من", "Min", "من"],
+        ["تو", "To", "تو"],
+        ["ئه", "Eh", "او"]
+      ]
+    },
+    "exercises": [],
+    "tags": ["beginner"]
+  }
+]

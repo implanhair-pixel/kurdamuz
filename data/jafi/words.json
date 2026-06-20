@@ -1,0 +1,78 @@
+[
+  {
+    "id": "jaf-w-001",
+    "kurdish": "سلاو",
+    "transliteration": "Slâw",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "سلاو، چۆنیت؟",
+        "transliteration": "Slâw, çonît?",
+        "translation": "سلام، چطوری؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "jaf-w-002",
+    "kurdish": "سوپاس",
+    "transliteration": "Supas",
+    "persian": "ممنون",
+    "english": "Thank you",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "jaf-w-003",
+    "kurdish": "که‌وان",
+    "transliteration": "Kewan",
+    "persian": "تیر و کمان",
+    "english": "Bow",
+    "category": "daily",
+    "difficulty": 3,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["jaf-region", "traditional"]
+  },
+  {
+    "id": "jaf-w-004",
+    "kurdish": "یەک",
+    "transliteration": "Yek",
+    "persian": "یک",
+    "english": "One",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers"]
+  },
+  {
+    "id": "jaf-w-005",
+    "kurdish": "باوک",
+    "transliteration": "Bawik",
+    "persian": "پدر",
+    "english": "Father",
+    "category": "family",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["family", "basic"]
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "home": {
+    "title": "کوردئامۆز",
+    "subtitle": "پلاتفۆرمی فێربوونی زمانی کوردی بۆ قسەکەرانی فارسی",
+    "brand": "کوردئامۆز",
+    "nav": {
+      "learn": "فێربوون",
+      "courses": "کۆرسەکان",
+      "community": "کۆمەڵگە",
+      "vocabulary": "فەرهەنگ",
+      "grammar": "ڕێزمان",
+      "progress": "پێشکەوتن"
+    },
+    "login": "چوونەژوورەوە",
+    "createAccount": "دروستکردنی هەژمار",
+    "languages": {
+      "en": "ئینگلیزی",
+      "fa": "فارسی",
+      "ckb": "کوردی"
+    },
+    "hero": {
+      "badge": "پلاتفۆرمی پێشکەوتووی فێربوونی کوردی",
+      "titleLine1": "زمانی کوردی",
+      "titleLine2": "بە وردی فێربە",
+      "subtitle": "پلاتفۆرمێکی نوێکە کە پێشکەوتنی ڕێکخراو، تمرینی زیرەک و میکانیزمە پاداشتییەکان بە یەکەوە تێکدەکات.",
+      "startLearning": "دەستپێکردنی فێربوون",
+      "exploreCurriculum": "بینینی کۆرسەکان",
+      "learnersCount": "١٢٬٥٨٠+ فێرخواز",
+      "rating": "هەڵسەنگاندنی ٤.٩"
+    },
+    "stats": {
+      "xpProgress": "پێشکەوتنی XP",
+      "coins": "دراوە",
+      "level": "ئاست",
+      "streak": "ستریک"
+    },
+    "cta": {
+      "title": "ئەمڕۆ دەست پێ بکە",
+      "subtitle": "بە ١٢٬٥٨٠+ فێرخوازێکی کوردی بپەیوەستە. بەخۆڕایی دەست پێ بکە — پێویستت بە کارتی بانکی نییە.",
+      "createFreeAccount": "دروستکردنی هەژماری بەخۆڕایی",
+      "watchDemo": "بینینی دیمۆ",
+      "noCard": "بی‌پێویستی بە کارتی بانکی"
+    }
+  },
+  "nav": {
+    "home": "سەرەتا",
+    "courses": "کۆرسەکان",
+    "lessons": "وانەکان",
+    "vocabulary": "فەرهەنگ",
+    "grammar": "ڕێزمان",
+    "stories": "چیرۆکەکان"
+  },
+  "stories": {
+    "title": "کتابخانەی چیرۆکەکان",
+    "description": "هەنەری خوێندنی کوردی خۆت بە کۆکرەی چیرۆکەکانمان بەرزبکەرەوە",
+    "allStories": "هەموو چیرۆکەکان",
+    "featured": "تایبەت",
+    "trending": "بەناوبانگ",
+    "read": "خوێندن",
+    "difficulty": {
+      "beginner": "سەرەتایی",
+      "intermediate": "ناوەڕاست",
+      "advanced": "پێشکەوتوو"
+    },
+    "status": {
+      "draft": "ڕەشنووس",
+      "published": "بڵاوکراوە",
+      "archived": "ئەرشیفکراو"
+    },
+    "filters": {
+      "all": "هەموو",
+      "folklore": "فۆلکلۆر",
+      "history": "مێژوو",
+      "culture": "کلتوور"
+    },
+    "reader": {
+      "bookmark": "نیشانەکردن",
+      "favorite": "دڵخواز",
+      "progress": "پێشکەوتن",
+      "complete": "تەواوکردن",
+      "continueReading": "بەردەوامبوونی خوێندن"
+    }
+  },
+  "placement": {
+    "title": "تێستینی ئاست",
+    "description": "هەڵسەنگاندنی گشتیی شارەزایی زمانی بۆ دیاریکردنی ئاستی گونجاو",
+    "start": "دەستپێکردنی تێست",
+    "instructions": "ڕێنماییەکان",
+    "assessment": "هەڵسەنگاندن",
+    "results": "ئەنجامەکان",
+    "feedback": "وەڵامدانەوە",
+    "recommendations": "پێشنیارەکان",
+    "questionTypes": {
+      "multipleChoice": "هەڵبژاردنی فرەگەڵ",
+      "trueFalse": "ڕاست/نادروست",
+      "fillBlank": "بەشە بەتاڵەکان پڕبکە",
+      "audioListening": "گوێگرتنی دەنگ",
+      "speaking": "قسەکردن"
+    },
+    "skillDomains": {
+      "reading": "خوێندنەوە",
+      "writing": "نووسین",
+      "listening": "گوێگرتن",
+      "speaking": "قسەکردن",
+      "grammar": "ڕێزمان",
+      "vocabulary": "فەرهەنگ"
+    },
+    "difficulty": {
+      "beginner": "سەرەتایی",
+      "intermediate": "ناوەڕاست",
+      "advanced": "پێشکەوتوو"
+    },
+    "proficiency": {
+      "beginner": "سەرەتایی",
+      "intermediate": "ناوەڕاست",
+      "advanced": "پێشکەوتوو"
+    },
+    "status": {
+      "inProgress": "ئەنجام دەدرێت",
+      "completed": "تەواوکراوە",
+      "abandoned": "بەجێهێشتوو",
+      "expired": "بەسەرچووە"
+    },
+    "messages": {
+      "welcome": "بەخێربێیت بۆ تێستی ئاست",
+      "timeRemaining": "کاتی ماوەماو",
+      "question": "پرسیار",
+      "of": "لە",
+      "submit": "ناردن",
+      "next": "دواتر",
+      "previous": "پێشوو",
+      "finish": "تەواوکردن",
+      "score": "خاڵ",
+      "placement": "دیاریکردنی ئاست",
+      "recommendedLevel": "ئاستی پێشنیارکراو",
+      "overallScore": "خاڵی گشتی",
+      "domainScores": "خاڵی بوارەکان",
+      "retakeTest": "دووبارەکردنەوەی تێست",
+      "viewDetails": "بینینی وردەکارییەکان"
+    }
+  },
+  "xp": {
+    "title": "داشبۆردی XP",
+    "subtitle": "پێشکەوتن و دەستکەوتەکانی خۆت بەدوای بکەوە",
+    "overview": "کۆتایی",
+    "history": "مێژوو",
+    "rewards": "خەڵاتەکان",
+    "leaderboard": "خشتەی ڕیزبەندی",
+    "analytics": "شیکار",
+    "totalXP": "کۆی XP",
+    "currentLevel": "ئاستی ئێستا",
+    "progressToNextLevel": "پێشکەوتن بۆ ئاستی {level}",
+    "xpToNextLevel": "XP بۆ ئاستی دواتر",
+    "xpGrowth": "گەشەی XP",
+    "daily": "ڕۆژانە",
+    "weekly": "هەفتانە",
+    "monthly": "مانگانە",
+    "xpHistory": "مێژووی XP",
+    "recentTransactions": "مامەڵەکانی نوێ",
+    "transactionHistory": "مێژووی مامەڵەی XP",
+    "availableRewards": "خەڵاتە بەردەستەکان",
+    "claimReward": "وەرگرتنی خەڵات",
+    "claimed": "وەرگیراوە",
+    "available": "بەردەست",
+    "expired": "بەسەرچووە",
+    "locked": "قفڵدراوە",
+    "requiredLevel": "ئاستی پێویست",
+    "requiredXP": "XPی پێویست",
+    "leaderboardTitle": "خشتەی ڕیزبەندی",
+    "yourPosition": "شوێنی تۆ",
+    "rank": "ڕیز",
+    "xpGained": "XP بەدەستھێنراو",
+    "activityHeatmap": "خشتەی چالاکی",
+    "currentStreak": "زنجیرەی ئێستا",
+    "activeDays": "ڕۆژە چالاکەکان",
+    "less": "کەمتر",
+    "more": "زیاتر",
+    "admin": {
+      "title": "بەڕێوەبەرایەتی XP",
+      "subtitle": "بەڕێوەبەرایەتی سیستەمی XP، خەڵات و دەستکەوتەکان",
+      "xpAdjustments": "ڕێکخستنەکانی XP",
+      "userLevels": "ئاستەکانی بەکارهێنەر",
+      "rewards": "خەڵاتەکان",
+      "analytics": "شیکار",
+      "quickAdjustment": "ڕێکخستنی خێرای XP",
+      "userId": "ناسنامەی بەکارهێنەر",
+      "xpAmount": "بڕی XP",
+      "reason": "هۆکار",
+      "action": "کردار",
+      "award": "پێدانی XP",
+      "remove": "سڕینەوەی XP",
+      "correct": "ڕاستکردنەوەی XP",
+      "submit": "ناردنی ڕێکخستن",
+      "cancel": "پاشگەزبوونەوە",
+      "recentAuditLogs": "لۆگەکانی پشکنینی نوێ"
+    },
+    "transactionTypes": {
+      "earned": "بەدەستھێنراو",
+      "removed": "سڕاوەتەوە",
+      "corrected": "ڕاستکراوەتەوە"
+    },
+    "sourceTypes": {
+      "lesson_completion": "تەواوکردنی وانە",
+      "quiz_completion": "تەواوکردنی تێست",
+      "course_completion": "تەواوکردنی کۆرس",
+      "daily_login": "چوونەژوورە ڕۆژانە",
+      "streak": "زنجیرە",
+      "achievement": "دەستکەوت",
+      "teacher_award": "خەڵاتی مامۆستا",
+      "admin_bonus": "بۆنەسی بەڕێوەبەر",
+      "special_event": "ڕوودادی تایبەت"
+    },
+    "rewardTypes": {
+      "badge": "نشان",
+      "certificate": "بڕگەنامە",
+      "avatar_item": "ئایتمی ئەڤەتار",
+      "profile_decoration": "جوانکاری پرۆفایل",
+      "course_unlock": "کردنەوەی کۆرس",
+      "special_content": "ناوەڕۆکی تایبەت",
+      "event_access": "دەستپێگەیشتن بە ڕووداد"
+    }
+  },
+  "library": {
+    "titles": {
+      "vocabulary": "فەرهەنگ",
+      "grammar": "ڕێزمان"
+    },
+    "descriptions": {
+      "vocabulary": "فەرهەنگی کوردی بە پێی گویش بگەڕێ.",
+      "grammar": "تێبینی و نموونەکانی ڕێزمان لە فایلە ناوخۆییەکان ببینە."
+    },
+    "searchPlaceholders": {
+      "vocabulary": "گەڕانی وشە...",
+      "grammar": "گەڕانی بابەتی ڕێزمانی..."
+    },
+    "loading": "بارکردن...",
+    "empty": {
+      "vocabulary": "هیچ وشەیەک نەدۆزرایەوە.",
+      "grammar": "هیچ بابەتی ڕێزمانی نەدۆزرایەوە."
+    },
+    "allDialects": "هەموو گویشەکان",
+    "labels": {
+      "persian": "فارسی",
+      "english": "English",
+      "transliteration": "نووسینی دەنگی",
+      "dialect": "گویش",
+      "difficulty": "ئاست",
+      "category": "بەش"
+    },
+    "difficulty": {
+      "beginner": "دەستپێک",
+      "basic": "بنەڕەتی",
+      "intermediate": "ناوەند",
+      "advanced": "پێشکەوتوو",
+      "expert": "پیشەیی"
+    },
+    "errors": {
+      "loadFailed": "بارکردنی ناوەڕۆک شکستی هێنا",
+      "unknown": "هەڵەی نەناسراو"
+    },
+    "dialects": {
+      "sorani": "سۆرانی",
+      "kurmanji": "کوردیی کرمانجی",
+      "bahdini": "بادینی",
+      "kalhory": "کەڵهۆری",
+      "leki": "لەکی",
+      "hawrami": "هەورامی",
+      "jafi": "جافی"
+    }
+  },
+  "sidebar": {
+    "brand": "KURDAMUZ",
+    "subtitle": "کوردئامۆز",
+    "dashboard": "داشبۆرد",
+    "learning": "فێربوون",
+    "courses": "کۆرسەکان",
+    "practice": "کردن",
+    "community": "کۆمەڵگە",
+    "leaderboard": "پێڕستی خاڵەکان",
+    "achievements": "دەستکەوتەکان"
+  },
+  "dashboard": {
+    "title": "داشبۆرد",
+    "description": "دووبارە گەڕایتەوە بۆ داشبۆرد. ئەمە پوختەی پێشکەوتنی فێربوونەکەتە.",
+    "currentLevel": "ئاستی ئێستا",
+    "totalXpEarned": "کۆی XP بەدەستهاتوو",
+    "progressToLevel": "پێشکەوتن بۆ ئاستی {level}",
+    "complete": "تەواو",
+    "level": "ئاست",
+    "xpThisWeek": "XPی ئەم هەفتەیە",
+    "experiencePoints": "خاڵی ئەزموون",
+    "coins": "دراوەکان",
+    "availableCoins": "دراوەی بەردەست",
+    "streak": "ستریک",
+    "daysInRow": "ڕۆژ بەردەوام",
+    "recentActivity": "چالاکییە نزیکەکان",
+    "noRecentActivity": "هێشتا چالاکییەکی نزیک نەنووسراوە.",
+    "loading": "لەبارکردن"
+  },
+  "auth": {
+    "welcomeBack": "بەخێربێیتەوە",
+    "signInDescription": "بچۆ ژوورەوە بۆ بەردەوامبوون لە ڕێگای فێربوونی کوردی",
+    "continueWithGoogle": "بەردەوامبوون بە Google",
+    "orSignInWithEmail": "یان بە ئیمەیڵ بچۆ ژوورەوە",
+    "emailAddress": "ناونیشانی ئیمەیڵ",
+    "password": "وشەی نهێنی",
+    "showPassword": "پیشاندانی وشەی نهێنی",
+    "hidePassword": "شارەوەکردنی وشەی نهێنی",
+    "rememberMe": "بیرمبهێنەوە",
+    "forgotPassword": "وشەی نهێنی فەرامۆش کردووە؟",
+    "noAccount": "هەژمارت نییە؟",
+    "createAccount": "دروستکردنی هەژمار",
+    "backToHome": "گەڕانەوە بۆ ماڵەوە",
+    "checkYourEmail": "ئیمەیڵەکەت بپشکنە",
+    "emailSentTo": "بەستەری پشتڕاستکردنەوەمان نارد بۆ {email}.",
+    "pleaseVerify": "تکایە ئیمەیڵەکەت پشتڕاست بکە بۆ بەردەوامبوون.",
+    "goToLogin": "چوونەژوورەوە",
+    "createYourAccount": "هەژمارەکەت دروست بکە",
+    "startJourney": "ڕێگای فێربوونی کوردی لە ئێستا دەست پێ بکە — بەخۆڕاییە",
+    "signUpWithGoogle": "تۆماربوون بە Google",
+    "orSignUpWithEmail": "یان بە ئیمەیڵ تۆماربە",
+    "fullName": "ناوی تەواو",
+    "yourName": "ناوت",
+    "minCharacters": "کەمترین ٨ پیت",
+    "confirmPassword": "دووبارەکردنەوەی وشەی نهێنی",
+    "reEnterPassword": "وشەی نهێنی دووبارە بنووسە",
+    "passwordsDoNotMatch": "وشەی نهێنییەکان یەک ناگرن",
+    "passwordMinLength": "وشەی نهێنی دەبێت لانیکەم ٨ پیت بێت",
+    "checkInbox": "صندوقی پەیامەکانت بپشکنە",
+    "sentResetLink": "بەستەری نوێکردنەوەی وشەی نهێنیمان نارد بۆ {email}.",
+    "backToSignIn": "گەڕانەوە بۆ چوونەژوورەوە",
+    "resetYourPassword": "وشەی نهێنییەکەت نوێ بکەوە",
+    "enterEmailToReset": "ئیمەیڵەکەت بنووسە و بەستەرێکت بۆ نوێکردنەوەی وشەی نهێنی دەبنێین.",
+    "sendResetLink": "ناردنی بەستەری نوێکردنەوە",
+    "rememberYourPassword": "وشەی نهێنیت بیرتە؟",
+    "signIn": "چوونەژوورەوە",
+    "newPasswordUpdated": "وشەی نهێنی نوێکرایەوە",
+    "chooseNewPassword": "وشەی نهێنی نوێ هەڵبژێرە",
+    "enterSecurePassword": "بۆ هەژماری Kurdamuz وشەی نهێنییەکی پارێزراو بنووسە.",
+    "newPassword": "وشەی نهێنی نوێ",
+    "passwordUpdatedDescription": "وشەی نهێنییەکەت نوێکرایەوە. ئێستا دەتوانیت بە زانیاریی نوێ بچیتە ژوورەوە.",
+    "updatePassword": "نوێکردنەوەی وشەی نهێنی"
+  },
+  "courses": {
+    "home": "سەرەتا",
+    "courses": "کۆرسەکان",
+    "dashboard": "داشبۆرد",
+    "badge": "ڕێڕەوی فێربوونی ڕێکخراو",
+    "title1": "هەموو",
+    "title2": "کۆرسەکان",
+    "subtitle": "لە ئاستی سەرەتایی تا پێشکەوتوو. هەر کۆرسێک بۆ پاراستنی باشتر و بەکارهێنانی ڕاستەقینە دروستکراوە.",
+    "lessons": "وانە",
+    "levels": {
+      "Beginner": "دەستپێک",
+      "Intermediate": "ناوەڕاست",
+      "Advanced": "پێشکەوتوو"
+    }
+  },
+  "leaderboard": {
+    "dashboard": "داشبۆرد",
+    "learn": "فێربوون",
+    "courses": "کۆرسەکان",
+    "practice": "کردن",
+    "community": "کۆمەڵگە",
+    "achievements": "دەستکەوتەکان",
+    "title": "پێڕستی خاڵەکان",
+    "subtitle": "لەگەڵ فێرخوازانی کوردی لە سەرتاسەری جیهان ڕکابەتی بکە. هەر کاتێک نوێ دەکرێتەوە.",
+    "weekly": "هەفتانە",
+    "monthly": "مانگانە",
+    "allTime": "هەموو کات",
+    "rank": "پلە",
+    "xp": "XP",
+    "streak": "ستریک",
+    "level": "ئاست"
+  }
+}

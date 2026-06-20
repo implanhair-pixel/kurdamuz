@@ -1,0 +1,36 @@
+[
+  {
+    "id": "jaf-p-001",
+    "kurdish": "چۆنیت؟",
+    "transliteration": "Çonît?",
+    "persian": "چطوری؟",
+    "english": "How are you?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": {
+      "kurdish": "باشم، سوپاس",
+      "transliteration": "Başim, supas",
+      "persian": "خوبم، ممنون"
+    },
+    "notes": "جافی زیرگویشی از سورانی است که در ناحیه‌ی جاف (مرز ایران و عراق) رایج است",
+    "audioUrl": null,
+    "tags": ["social", "basic"]
+  },
+  {
+    "id": "jaf-p-002",
+    "kurdish": "ناوت چیە؟",
+    "transliteration": "Nawit çiye?",
+    "persian": "اسمت چیه؟",
+    "english": "What is your name?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": null,
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["introductions"]
+  }
+]

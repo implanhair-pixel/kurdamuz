@@ -1,0 +1,131 @@
+[
+  {
+    "id": "sor-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "در کردی سورانی ضمایر شخصی نقش مهمی در ساخت جمله دارند و معمولاً قبل از فعل می‌آیند. برخلاف فارسی، در گفتار روزمره گاهی ضمیر حذف می‌شود چون شناسه فعل خودش شخص را نشان می‌دهد.",
+      "english": "In Sorani Kurdish, personal pronouns play an important role in sentence structure and usually come before the verb. Unlike Persian, in everyday speech the pronoun is sometimes dropped because the verb ending itself indicates the person."
+    },
+    "rules": [
+      {
+        "rule": "من = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "من ناوم ئاراسە",
+          "transliteration": "Min nawm Arase",
+          "persian": "اسم من آراسه است"
+        }
+      },
+      {
+        "rule": "تۆ = تو (دوم شخص مفرد)",
+        "example": {
+          "kurdish": "تۆ چۆنی؟",
+          "transliteration": "To çonî?",
+          "persian": "تو چطوری؟"
+        }
+      },
+      {
+        "rule": "ئەو = او (سوم شخص مفرد، برای انسان و غیرانسان یکسان)",
+        "example": {
+          "kurdish": "ئەو مامۆستایە",
+          "transliteration": "Ew mamostaye",
+          "persian": "او معلم است"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["من", "min", "من"],
+        ["تۆ", "to", "تو"],
+        ["ئەو", "ew", "او"],
+        ["ئێمە", "ême", "ما"],
+        ["ئێوە", "êwe", "شما"],
+        ["ئەوان", "ewan", "آن‌ها"]
+      ]
+    },
+    "exercises": [
+      {
+        "question": "ترجمه کن: «من به مدرسه می‌روم»",
+        "answer": "من دەچمە قوتابخانە",
+        "hint": "از فعل دەچم (می‌روم) استفاده کن"
+      },
+      {
+        "question": "ترجمه کن: «او دانشجو است»",
+        "answer": "ئەو خویندکارە",
+        "hint": "از ضمیر ئەو استفاده کن"
+      }
+    ],
+    "tags": ["foundation", "essential"]
+  },
+  {
+    "id": "sor-g-002",
+    "title": "منفی کردن فعل",
+    "titleEn": "Verb Negation",
+    "category": "negation",
+    "difficulty": 2,
+    "explanation": {
+      "persian": "برای منفی کردن فعل در کردی سورانی، پیشوند «نا» یا «نە» به ابتدای فعل اضافه می‌شود. انتخاب بین این دو به زمان فعل بستگی دارد: «نا» معمولاً برای زمان حال و «نە» برای زمان گذشته و امری استفاده می‌شود.",
+      "english": "To negate a verb in Sorani Kurdish, the prefix 'na' or 'ne' is added to the beginning of the verb. The choice between the two depends on the verb tense: 'na' is generally used for present tense and 'ne' for past tense and imperative."
+    },
+    "rules": [
+      {
+        "rule": "زمان حال: ناـ + فعل",
+        "example": {
+          "kurdish": "من نازانم",
+          "transliteration": "Min nazanim",
+          "persian": "من نمی‌دانم"
+        }
+      },
+      {
+        "rule": "زمان گذشته: نەـ + فعل",
+        "example": {
+          "kurdish": "ئەو نەهات",
+          "transliteration": "Ew nehat",
+          "persian": "او نیامد"
+        }
+      }
+    ],
+    "table": null,
+    "exercises": [
+      {
+        "question": "جمله «من نمی‌خواهم» را به کردی بنویس",
+        "answer": "من نامەوێ",
+        "hint": "فعل «خواستن» در زمان حال با پیشوند منفی نا"
+      }
+    ],
+    "tags": ["foundation", "verbs"]
+  },
+  {
+    "id": "sor-g-003",
+    "title": "ساختار جمله ساده",
+    "titleEn": "Basic Sentence Structure",
+    "category": "sentence-structure",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "ترتیب کلمات در جمله ساده کردی سورانی معمولاً به شکل فاعل-مفعول-فعل (SOV) است، که با فارسی شباهت زیادی دارد. این باعث می‌شود فارسی‌زبانان نسبتاً راحت با این ساختار کنار بیایند.",
+      "english": "Word order in a simple Sorani Kurdish sentence is generally Subject-Object-Verb (SOV), which closely resembles Persian. This makes it relatively easy for Persian speakers to adapt to this structure."
+    },
+    "rules": [
+      {
+        "rule": "فاعل + مفعول + فعل",
+        "example": {
+          "kurdish": "من نان دەخۆم",
+          "transliteration": "Min nan dexom",
+          "persian": "من نان می‌خورم"
+        }
+      }
+    ],
+    "table": null,
+    "exercises": [
+      {
+        "question": "با کلمات «من»، «کتاب»، «دەخوێنمە» جمله بساز",
+        "answer": "من کتاب دەخوێنمە",
+        "hint": "ترتیب: فاعل، مفعول، فعل"
+      }
+    ],
+    "tags": ["foundation", "essential"]
+  }
+]

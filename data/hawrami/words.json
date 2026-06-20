@@ -1,0 +1,78 @@
+[
+  {
+    "id": "haw-w-001",
+    "kurdish": "سلاو",
+    "transliteration": "Salaw",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "سلاو، چۆن یا؟",
+        "transliteration": "Salaw, çon ya?",
+        "translation": "سلام، حالت چطوره؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "haw-w-002",
+    "kurdish": "زوور سوپاس",
+    "transliteration": "Zûr supas",
+    "persian": "خیلی ممنون",
+    "english": "Thank you very much",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "haw-w-003",
+    "kurdish": "ئاگر",
+    "transliteration": "Agir",
+    "persian": "آتش",
+    "english": "Fire",
+    "category": "nature",
+    "difficulty": 2,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["nature"]
+  },
+  {
+    "id": "haw-w-004",
+    "kurdish": "یەو",
+    "transliteration": "Yew",
+    "persian": "یک",
+    "english": "One",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers"]
+  },
+  {
+    "id": "haw-w-005",
+    "kurdish": "نان",
+    "transliteration": "Nan",
+    "persian": "نان",
+    "english": "Bread",
+    "category": "food",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["food", "basic"]
+  }
+]

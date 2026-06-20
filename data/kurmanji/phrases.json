@@ -1,0 +1,55 @@
+[
+  {
+    "id": "kur-p-001",
+    "kurdish": "Tu çawa yî?",
+    "transliteration": "Tu çawa yî?",
+    "persian": "چطوری؟",
+    "english": "How are you?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": {
+      "kurdish": "Baş im, spas",
+      "transliteration": "Baş im, spas",
+      "persian": "خوبم، ممنون"
+    },
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["social", "basic"]
+  },
+  {
+    "id": "kur-p-002",
+    "kurdish": "Navê te çiye?",
+    "transliteration": "Navê te çiye?",
+    "persian": "اسمت چیه؟",
+    "english": "What is your name?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": {
+      "kurdish": "Navê min Azad e",
+      "transliteration": "Navê min Azad e",
+      "persian": "اسمم آزاد است"
+    },
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["social", "basic", "identity"]
+  },
+  {
+    "id": "kur-p-003",
+    "kurdish": "Ev çend e?",
+    "transliteration": "Ev çend e?",
+    "persian": "این چقدره؟",
+    "english": "How much is this?",
+    "category": "shopping",
+    "difficulty": 2,
+    "type": "question",
+    "context": "spoken",
+    "response": null,
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["shopping", "numbers"]
+  }
+]

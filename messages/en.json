@@ -1,0 +1,378 @@
+{
+  "home": {
+    "title": "KurdAmuz",
+    "subtitle": "Kurdish Language Learning Platform for Persian Speakers",
+    "brand": "KurdAmuz",
+    "nav": {
+      "learn": "Learn",
+      "courses": "Courses",
+      "community": "Community",
+      "vocabulary": "Vocabulary",
+      "grammar": "Grammar",
+      "progress": "Progress"
+    },
+    "login": "Login",
+    "createAccount": "Create Account",
+    "languages": {
+      "en": "English",
+      "fa": "Persian",
+      "ckb": "Kurdish"
+    },
+    "hero": {
+      "badge": "Advanced Kurdish Learning Platform",
+      "titleLine1": "Learn Kurdish",
+      "titleLine2": "With Precision",
+      "subtitle": "A modern learning platform combining structured progression, intelligent practice systems, and rewarding educational mechanics.",
+      "startLearning": "Start Learning",
+      "exploreCurriculum": "Explore Curriculum",
+      "learnersCount": "12,580+ learners",
+      "rating": "4.9 rating"
+    },
+    "stats": {
+      "xpProgress": "XP Progress",
+      "coins": "Coins",
+      "level": "Level",
+      "streak": "Streak"
+    },
+    "cta": {
+      "title": "Start today",
+      "subtitle": "Join 12,580+ Kurdish learners. Start free — no card required.",
+      "createFreeAccount": "Create Free Account",
+      "watchDemo": "Watch Demo",
+      "noCard": "No card required"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "vocabulary": "Vocabulary",
+    "grammar": "Grammar",
+    "stories": "Stories"
+  },
+  "stories": {
+    "title": "Stories Library",
+    "description": "Improve your Kurdish reading skills with our collection of stories",
+    "allStories": "All Stories",
+    "featured": "Featured",
+    "trending": "Trending",
+    "read": "Read",
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "status": {
+      "draft": "Draft",
+      "published": "Published",
+      "archived": "Archived"
+    },
+    "filters": {
+      "all": "All",
+      "folklore": "Folklore",
+      "history": "History",
+      "culture": "Culture"
+    },
+    "reader": {
+      "bookmark": "Bookmark",
+      "favorite": "Favorite",
+      "progress": "Progress",
+      "complete": "Mark as Complete",
+      "continueReading": "Continue Reading"
+    }
+  },
+  "placement": {
+    "title": "Placement Test",
+    "description": "Comprehensive language skills assessment to determine your appropriate level",
+    "start": "Start Test",
+    "instructions": "Instructions",
+    "assessment": "Assessment",
+    "results": "Results",
+    "feedback": "Feedback",
+    "recommendations": "Recommendations",
+    "questionTypes": {
+      "multipleChoice": "Multiple Choice",
+      "trueFalse": "True/False",
+      "fillBlank": "Fill in the Blank",
+      "audioListening": "Audio Listening",
+      "speaking": "Speaking"
+    },
+    "skillDomains": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "listening": "Listening",
+      "speaking": "Speaking",
+      "grammar": "Grammar",
+      "vocabulary": "Vocabulary"
+    },
+    "difficulty": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "proficiency": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "status": {
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "abandoned": "Abandoned",
+      "expired": "Expired"
+    },
+    "messages": {
+      "welcome": "Welcome to the Placement Test",
+      "timeRemaining": "Time Remaining",
+      "question": "Question",
+      "of": "of",
+      "submit": "Submit",
+      "next": "Next",
+      "previous": "Previous",
+      "finish": "Finish",
+      "score": "Score",
+      "placement": "Placement",
+      "recommendedLevel": "Recommended Level",
+      "overallScore": "Overall Score",
+      "domainScores": "Domain Scores",
+      "retakeTest": "Retake Test",
+      "viewDetails": "View Details"
+    }
+  },
+  "xp": {
+    "title": "XP Dashboard",
+    "subtitle": "Track your progress and achievements",
+    "overview": "Overview",
+    "history": "History",
+    "rewards": "Rewards",
+    "leaderboard": "Leaderboard",
+    "analytics": "Analytics",
+    "totalXP": "Total XP",
+    "currentLevel": "Current Level",
+    "progressToNextLevel": "Progress to Level {level}",
+    "xpToNextLevel": "XP to next level",
+    "xpGrowth": "XP Growth",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "xpHistory": "XP History",
+    "recentTransactions": "Recent Transactions",
+    "transactionHistory": "XP Transaction History",
+    "availableRewards": "Available Rewards",
+    "claimReward": "Claim Reward",
+    "claimed": "Claimed",
+    "available": "Available",
+    "expired": "Expired",
+    "locked": "Locked",
+    "requiredLevel": "Required Level",
+    "requiredXP": "Required XP",
+    "leaderboardTitle": "Leaderboard",
+    "yourPosition": "Your Position",
+    "rank": "Rank",
+    "xpGained": "XP Gained",
+    "activityHeatmap": "Activity Heatmap",
+    "currentStreak": "Current Streak",
+    "activeDays": "Active Days",
+    "less": "Less",
+    "more": "More",
+    "admin": {
+      "title": "XP Administration",
+      "subtitle": "Manage XP system, rewards, and achievements",
+      "xpAdjustments": "XP Adjustments",
+      "userLevels": "User Levels",
+      "rewards": "Rewards",
+      "analytics": "Analytics",
+      "quickAdjustment": "Quick XP Adjustment",
+      "userId": "User ID",
+      "xpAmount": "XP Amount",
+      "reason": "Reason",
+      "action": "Action",
+      "award": "Award XP",
+      "remove": "Remove XP",
+      "correct": "Correct XP",
+      "submit": "Submit Adjustment",
+      "cancel": "Cancel",
+      "recentAuditLogs": "Recent Audit Logs"
+    },
+    "transactionTypes": {
+      "earned": "Earned",
+      "removed": "Removed",
+      "corrected": "Corrected"
+    },
+    "sourceTypes": {
+      "lesson_completion": "Lesson Completion",
+      "quiz_completion": "Quiz Completion",
+      "course_completion": "Course Completion",
+      "daily_login": "Daily Login",
+      "streak": "Streak",
+      "achievement": "Achievement",
+      "teacher_award": "Teacher Award",
+      "admin_bonus": "Admin Bonus",
+      "special_event": "Special Event"
+    },
+    "rewardTypes": {
+      "badge": "Badge",
+      "certificate": "Certificate",
+      "avatar_item": "Avatar Item",
+      "profile_decoration": "Profile Decoration",
+      "course_unlock": "Course Unlock",
+      "special_content": "Special Content",
+      "event_access": "Event Access"
+    }
+  },
+  "library": {
+    "titles": {
+      "vocabulary": "Vocabulary",
+      "grammar": "Grammar"
+    },
+    "descriptions": {
+      "vocabulary": "Browse the local Kurdish word bank by dialect.",
+      "grammar": "Review grammar notes and examples from local content files."
+    },
+    "searchPlaceholders": {
+      "vocabulary": "Search vocabulary...",
+      "grammar": "Search grammar topics..."
+    },
+    "loading": "Loading...",
+    "empty": {
+      "vocabulary": "No vocabulary found.",
+      "grammar": "No grammar topics found."
+    },
+    "allDialects": "All dialects",
+    "labels": {
+      "persian": "Persian",
+      "english": "English",
+      "transliteration": "Transliteration",
+      "dialect": "Dialect",
+      "difficulty": "Difficulty",
+      "category": "Category"
+    },
+    "difficulty": {
+      "beginner": "Beginner",
+      "basic": "Basic",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "expert": "Expert"
+    },
+    "errors": {
+      "loadFailed": "Failed to load content",
+      "unknown": "Unknown error"
+    },
+    "dialects": {
+      "sorani": "Sorani",
+      "kurmanji": "Kurmanji",
+      "bahdini": "Bahdini",
+      "kalhory": "Kalhory",
+      "leki": "Leki",
+      "hawrami": "Hawrami",
+      "jafi": "Jafi"
+    }
+  },
+  "sidebar": {
+    "brand": "KURDAMUZ",
+    "subtitle": "KurdAmuz",
+    "dashboard": "Dashboard",
+    "learning": "Learning",
+    "courses": "Courses",
+    "practice": "Practice",
+    "community": "Community",
+    "vocabulary": "Vocabulary",
+    "grammar": "Grammar",
+    "leaderboard": "Leaderboard",
+    "achievements": "Achievements"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "You are back on your dashboard. Here is your learning progress overview.",
+    "currentLevel": "Current Level",
+    "totalXpEarned": "Total XP Earned",
+    "progressToLevel": "Progress to Level {level}",
+    "complete": "complete",
+    "level": "Level",
+    "xpThisWeek": "XP This Week",
+    "experiencePoints": "Experience points",
+    "coins": "Coins",
+    "availableCoins": "Available coins",
+    "streak": "Streak",
+    "daysInRow": "Days in a row",
+    "recentActivity": "Recent Activity",
+    "noRecentActivity": "No recent activity yet.",
+    "loading": "Loading"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "signInDescription": "Sign in to continue your Kurdish learning journey",
+    "continueWithGoogle": "Continue with Google",
+    "orSignInWithEmail": "or sign in with email",
+    "emailAddress": "Email address",
+    "password": "Password",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create account",
+    "backToHome": "Back to home",
+    "checkYourEmail": "Check your email",
+    "emailSentTo": "We sent a confirmation link to {email}.",
+    "pleaseVerify": "Please verify your email to continue.",
+    "goToLogin": "Go to Login",
+    "createYourAccount": "Create your account",
+    "startJourney": "Start your Kurdish language journey today — it's free",
+    "signUpWithGoogle": "Sign up with Google",
+    "orSignUpWithEmail": "or sign up with email",
+    "fullName": "Full name",
+    "yourName": "Your name",
+    "minCharacters": "Min. 8 characters",
+    "confirmPassword": "Confirm password",
+    "reEnterPassword": "Re-enter your password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "passwordMinLength": "Password must be at least 8 characters",
+    "checkInbox": "Check your inbox",
+    "sentResetLink": "We've sent a password reset link to {email}.",
+    "backToSignIn": "Back to Sign In",
+    "resetYourPassword": "Reset your password",
+    "enterEmailToReset": "Enter your email and we'll send you a link to reset your password.",
+    "sendResetLink": "Send Reset Link",
+    "rememberYourPassword": "Remember your password?",
+    "signIn": "Sign in",
+    "newPasswordUpdated": "Password updated",
+    "chooseNewPassword": "Choose a new password",
+    "enterSecurePassword": "Enter a secure password for your Kurdamuz account.",
+    "newPassword": "New password",
+    "passwordUpdatedDescription": "Your password has been reset. You can now sign in with your new credentials.",
+    "updatePassword": "Update Password"
+  },
+  "courses": {
+    "home": "Home",
+    "courses": "Courses",
+    "dashboard": "Dashboard",
+    "badge": "Structured Learning Paths",
+    "title1": "All",
+    "title2": "Courses",
+    "subtitle": "From absolute beginner to advanced fluency. Every course is structured for maximum retention and real-world application.",
+    "lessons": "lessons",
+    "levels": {
+      "Beginner": "Beginner",
+      "Intermediate": "Intermediate",
+      "Advanced": "Advanced"
+    }
+  },
+  "leaderboard": {
+    "dashboard": "Dashboard",
+    "learn": "Learn",
+    "courses": "Courses",
+    "practice": "Practice",
+    "community": "Community",
+    "achievements": "Achievements",
+    "title": "Global Leaderboard",
+    "subtitle": "Compete with Kurdish learners worldwide. Updated every hour.",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "allTime": "All Time",
+    "rank": "Rank",
+    "xp": "XP",
+    "streak": "Streak",
+    "level": "Level"
+  }
+}

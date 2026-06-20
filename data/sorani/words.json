@@ -1,0 +1,254 @@
+[
+  {
+    "id": "sor-w-001",
+    "kurdish": "سلاو",
+    "transliteration": "Slâw",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "سلاو، ناوت چیه؟",
+        "transliteration": "Slâw, nawt çiye?",
+        "translation": "سلام، اسمت چیه؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "sor-w-002",
+    "kurdish": "سوپاس",
+    "transliteration": "Supas",
+    "persian": "ممنون / متشکرم",
+    "english": "Thank you",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "زۆر سوپاس",
+        "transliteration": "Zor supas",
+        "translation": "خیلی ممنون"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "sor-w-003",
+    "kurdish": "بەخێربێیت",
+    "transliteration": "Be xêr bêyt",
+    "persian": "خوش آمدی",
+    "english": "Welcome",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "بەخێربێیت بۆ کوردستان",
+        "transliteration": "Be xêr bêyt bo Kurdistan",
+        "translation": "خوش آمدی به کردستان"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "sor-w-004",
+    "kurdish": "ناو",
+    "transliteration": "Naw",
+    "persian": "اسم / نام",
+    "english": "Name",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "ناوم علیه",
+        "transliteration": "Nawm Aliye",
+        "translation": "اسم من علی است"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "identity"]
+  },
+  {
+    "id": "sor-w-005",
+    "kurdish": "بەڵێ",
+    "transliteration": "Beĺê",
+    "persian": "بله",
+    "english": "Yes",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "بەڵێ، دەزانم",
+        "transliteration": "Beĺê, dezanim",
+        "translation": "بله، می‌دانم"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic"]
+  },
+  {
+    "id": "sor-w-006",
+    "kurdish": "نەخێر",
+    "transliteration": "Nexêr",
+    "persian": "نه / خیر",
+    "english": "No",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic"]
+  },
+  {
+    "id": "sor-w-007",
+    "kurdish": "یەک",
+    "transliteration": "Yek",
+    "persian": "یک",
+    "english": "One",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "sor-w-008",
+    "kurdish": "دوو",
+    "transliteration": "Du",
+    "persian": "دو",
+    "english": "Two",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "sor-w-009",
+    "kurdish": "سێ",
+    "transliteration": "Sê",
+    "persian": "سه",
+    "english": "Three",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "sor-w-010",
+    "kurdish": "چوار",
+    "transliteration": "Çwar",
+    "persian": "چهار",
+    "english": "Four",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "sor-w-011",
+    "kurdish": "پێنج",
+    "transliteration": "Pênç",
+    "persian": "پنج",
+    "english": "Five",
+    "category": "numbers",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["numbers", "basic"]
+  },
+  {
+    "id": "sor-w-012",
+    "kurdish": "دەست",
+    "transliteration": "Dest",
+    "persian": "دست",
+    "english": "Hand",
+    "category": "body",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "دەستەکەم تێ‌دەکات",
+        "transliteration": "Destekeym têdekat",
+        "translation": "دستم درد می‌کند"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["body", "basic"]
+  },
+  {
+    "id": "sor-w-013",
+    "kurdish": "سەر",
+    "transliteration": "Ser",
+    "persian": "سر",
+    "english": "Head",
+    "category": "body",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["body", "basic"]
+  },
+  {
+    "id": "sor-w-014",
+    "kurdish": "چاو",
+    "transliteration": "Çaw",
+    "persian": "چشم",
+    "english": "Eye",
+    "category": "body",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["body", "basic"]
+  },
+  {
+    "id": "sor-w-015",
+    "kurdish": "نان",
+    "transliteration": "Nan",
+    "persian": "نان",
+    "english": "Bread",
+    "category": "food",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "sentence": "نانەکە گەرمە",
+        "transliteration": "Naneke germe",
+        "translation": "نان گرم است"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["food", "basic"]
+  }
+]

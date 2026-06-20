@@ -1,0 +1,32 @@
+[
+  {
+    "id": "haw-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 2,
+    "explanation": {
+      "persian": "هورامی شاخه‌ای از زبان‌های گورانی است، نه زیرشاخه‌ی مستقیم سورانی یا کرمانجی، و به همین دلیل ساختار صرفی ضمایر و فعل تفاوت‌های آشکاری با دیگر گویش‌های کردی دارد.",
+      "english": "Hawrami belongs to the Gorani branch rather than being a direct sub-dialect of Sorani or Kurmanji, so its pronoun and verb morphology differs noticeably from other Kurdish dialects."
+    },
+    "rules": [
+      {
+        "rule": "ئەز = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "ئەز چیمە مالێ",
+          "transliteration": "Ez çime malê",
+          "persian": "من به خانه می‌روم"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["ئەز", "Ez", "من"],
+        ["تو", "To", "تو"]
+      ]
+    },
+    "exercises": [],
+    "tags": ["beginner", "gorani-branch"]
+  }
+]

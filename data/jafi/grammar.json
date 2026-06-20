@@ -1,0 +1,33 @@
+[
+  {
+    "id": "jaf-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "جافی زیرگویشی از سورانی است و از نظر دستوری بسیار شبیه سورانی مرکزی است؛ تفاوت‌ها بیشتر در واژگان و لهجه دیده می‌شود تا در ساختار ضمایر.",
+      "english": "Jafi is a sub-dialect of Sorani and is grammatically very close to Central Sorani; differences appear mostly in vocabulary and accent rather than pronoun structure."
+    },
+    "rules": [
+      {
+        "rule": "من = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "من ناوم ئاراسە",
+          "transliteration": "Min nawm Arase",
+          "persian": "اسم من آراسه است"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["من", "Min", "من"],
+        ["تۆ", "To", "تو"],
+        ["ئەو", "Ew", "او"]
+      ]
+    },
+    "exercises": [],
+    "tags": ["beginner"]
+  }
+]

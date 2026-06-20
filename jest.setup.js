@@ -1,0 +1,10 @@
+process.env.NEXT_PUBLIC_SUPABASE_URL ||= 'https://placeholder.supabase.co';
+process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||= 'placeholder-anon-key';
+process.env.SUPABASE_SERVICE_ROLE_KEY ||= 'placeholder-service-role-key';
+process.env.DATABASE_URL ||= 'postgresql://user:password@localhost:5432/kurdamuz_test';
+process.env.DIRECT_URL ||= process.env.DATABASE_URL;
+process.env.NEXT_PUBLIC_APP_URL ||= 'http://localhost:3000';
+process.env.NEXT_PUBLIC_SITE_URL ||= 'http://localhost:3000';
+process.env.CRON_SECRET ||= 'test-cron-secret';
+process.env.CSRF_SECRET ||= 'test-csrf-secret';
+process.env.API_SECRET ||= 'test-api-secret';

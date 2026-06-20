@@ -1,0 +1,61 @@
+modules = ["nodejs-20", "python-3.11"]
+[nix]
+channel = "stable-25_05"
+
+[agent]
+expertMode = true
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "node start.js"
+waitForPort = 5000
+
+[[ports]]
+localPort = 3000
+externalPort = 3000
+
+[[ports]]
+localPort = 3001
+externalPort = 3002
+
+[[ports]]
+localPort = 3002
+externalPort = 3003
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[userenv]
+
+[userenv.shared]
+NEXT_PUBLIC_APP_URL = "https://kurdamuz.replit.app"
+NEXT_PUBLIC_SITE_URL = "https://kurdamuz.replit.app"
+NEXT_PUBLIC_SUPABASE_URL = "https://cmflotkwlyjhldorztjo.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNtZmxvdGt3bHlqaGxkb3J6dGpvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODEzODQyOTAsImV4cCI6MjA5Njk2MDI5MH0.jOOwyL1HBqS7uIKFgk_mU_EsdQJzmIKzN9S0IYcADG0"
+SUPABASE_SERVICE_ROLE_KEY = "placeholder"
+DIRECT_URL = "postgresql://neondb_owner:npg_jbo8uBOS0prN@ep-broad-mouse-a2pfdyfc.eu-central-1.aws.neon.tech/neondb?sslmode=require"
+CRON_SECRET = "0000000000000000000000000000000000000000000000000000000000000000"
+CSRF_SECRET = "0000000000000000000000000000000000000000000000000000000000000000"
+GLITCHTIP_DSN = ""
+NEXT_PUBLIC_POSTHOG_KEY = ""
+NEXT_PUBLIC_POSTHOG_HOST = "https://app.posthog.com"

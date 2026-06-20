@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bad-w-001",
+    "kurdish": "سلاڤ",
+    "transliteration": "Silav",
+    "persian": "سلام",
+    "english": "Hello",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [
+      {
+        "sentence": "سلاڤ، نڤێ تە چیە؟",
+        "transliteration": "Silav, navê te çiye?",
+        "translation": "سلام، اسمت چیه؟"
+      }
+    ],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "bad-w-002",
+    "kurdish": "سپاس",
+    "transliteration": "Spas",
+    "persian": "ممنون / متشکرم",
+    "english": "Thank you",
+    "category": "greetings",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "social"]
+  },
+  {
+    "id": "bad-w-003",
+    "kurdish": "نڤ",
+    "transliteration": "Nav",
+    "persian": "اسم / نام",
+    "english": "Name",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic", "identity"]
+  },
+  {
+    "id": "bad-w-004",
+    "kurdish": "ئەرێ",
+    "transliteration": "Erê",
+    "persian": "بله",
+    "english": "Yes",
+    "category": "daily",
+    "difficulty": 1,
+    "partOfSpeech": "interjection",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["basic"]
+  },
+  {
+    "id": "bad-w-005",
+    "kurdish": "نان",
+    "transliteration": "Nan",
+    "persian": "نان",
+    "english": "Bread",
+    "category": "food",
+    "difficulty": 1,
+    "partOfSpeech": "noun",
+    "examples": [],
+    "audioUrl": null,
+    "imageUrl": null,
+    "tags": ["food", "basic"]
+  }
+]

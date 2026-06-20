@@ -1,0 +1,36 @@
+[
+  {
+    "id": "haw-p-001",
+    "kurdish": "چۆن یا؟",
+    "transliteration": "Çon ya?",
+    "persian": "چطوری؟",
+    "english": "How are you?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": {
+      "kurdish": "باش یا، سوپاس",
+      "transliteration": "Baş ya, supas",
+      "persian": "خوبم، ممنون"
+    },
+    "notes": "هورامی شاخه‌ای از زبان‌های گورانی است و از نظر دستوری با سورانی و کرمانجی تفاوت‌های قابل توجهی دارد",
+    "audioUrl": null,
+    "tags": ["social", "basic"]
+  },
+  {
+    "id": "haw-p-002",
+    "kurdish": "ناوت چەنە؟",
+    "transliteration": "Nawit çene?",
+    "persian": "اسمت چیه؟",
+    "english": "What is your name?",
+    "category": "greetings",
+    "difficulty": 1,
+    "type": "question",
+    "context": "informal",
+    "response": null,
+    "notes": null,
+    "audioUrl": null,
+    "tags": ["introductions"]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "kal-g-001",
+    "title": "ضمایر شخصی",
+    "titleEn": "Personal Pronouns",
+    "category": "pronouns",
+    "difficulty": 1,
+    "explanation": {
+      "persian": "در کلهری، مانند بسیاری از گویش‌های کردی جنوبی، ضمایر شخصی پیش از فعل می‌آیند و در گفتار روزمره گاهی حذف می‌شوند چون فعل خودش شخص را نشان می‌دهد.",
+      "english": "In Kalhori, as in many Southern Kurdish dialects, personal pronouns precede the verb and are sometimes dropped in everyday speech since the verb conjugation already marks the person."
+    },
+    "rules": [
+      {
+        "rule": "من = من (اول شخص مفرد)",
+        "example": {
+          "kurdish": "من ماڵم لێرەیە",
+          "transliteration": "Min mallim lêreye",
+          "persian": "خانه‌ی من اینجاست"
+        }
+      },
+      {
+        "rule": "تۆ = تو (دوم شخص مفرد)",
+        "example": {
+          "kurdish": "تۆ چۆنی؟",
+          "transliteration": "To çonî?",
+          "persian": "تو چطوری؟"
+        }
+      }
+    ],
+    "table": {
+      "headers": ["ضمیر کردی", "تلفظ", "فارسی"],
+      "rows": [
+        ["من", "Min", "من"],
+        ["تۆ", "To", "تو"],
+        ["ئەو", "Ew", "او"]
+      ]
+    },
+    "exercises": [],
+    "tags": ["beginner"]
+  }
+]
