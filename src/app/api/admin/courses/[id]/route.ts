@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { requireRole } from '@/lib/auth';
+import { requireMinRole } from '@/lib/auth';
 import { supabaseAdmin } from '@/lib/supabase';
 
 export async function GET(
@@ -8,7 +8,7 @@ export async function GET(
 ) {
   const { id } = await params;
   try {
-    await requireRole('admin');
+    await requireMinRole('admin');
 
     const { data: course, error } = await supabaseAdmin
       .from('courses')
@@ -69,7 +69,7 @@ export async function PUT(
 ) {
   const { id } = await params;
   try {
-    await requireRole('admin');
+    await requireMinRole('admin');
     const body = await request.json();
     const { title, description, categoryId, difficultyLevel, thumbnailUrl, isPublished } = body;
 
@@ -123,7 +123,7 @@ export async function DELETE(
 ) {
   const { id } = await params;
   try {
-    await requireRole('admin');
+    await requireMinRole('admin');
 
     const { error } = await supabaseAdmin
       .from('courses')

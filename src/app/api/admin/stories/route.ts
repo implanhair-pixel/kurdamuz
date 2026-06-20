@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getCurrentUser, requireRole } from '@/lib/auth';
+import { getCurrentUser, requireMinRole } from '@/lib/auth';
 import { db } from '@/db';
 import { stories } from '@/db/schema';
 import { eq } from 'drizzle-orm';
@@ -29,7 +29,7 @@ export async function POST(request: Request) {
       );
     }
 
-    const isAdmin = await requireRole('admin');
+    const isAdmin = await requireMinRole('admin');
     if (!isAdmin) {
       return NextResponse.json(
         { error: 'Forbidden' },
@@ -69,7 +69,7 @@ export async function GET(request: Request) {
       );
     }
 
-    const isAdmin = await requireRole('admin');
+    const isAdmin = await requireMinRole('admin');
     if (!isAdmin) {
       return NextResponse.json(
         { error: 'Forbidden' },

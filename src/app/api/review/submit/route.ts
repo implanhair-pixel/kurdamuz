@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { supabaseAdmin } from '@/lib/supabase';
+import { db } from '@/db';
+import { reviewSessions } from '@/db/schema';
+import { eq, sql } from 'drizzle-orm';
 import { submitReviewAttemptSchema, calculateNextReview } from '@/types/review';
 
 export async function POST(request: NextRequest) {
@@ -116,11 +119,14 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Update session correct answers count
+    // Update session correct answers count in Neon/Drizzle instead of relying on a Supabase RPC.
     if (validatedData.responseQuality >= 3) {
-      await supabaseAdmin.rpc('increment_correct_answers', {
-        session_id: validatedData.sessionId,
-      });
+      await db
+        .update(reviewSessions)
+        .set({
+          correctAnswers: sql`${reviewSessions.correctAnswers} + 1`,
+        })
+        .where(eq(reviewSessions.id, validatedData.sessionId));
     }
 
     return NextResponse.json({ 

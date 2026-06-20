@@ -30,7 +30,8 @@ export async function getSupabaseServerClient() {
 // even if NEXT_PUBLIC_SUPABASE_URL is accidentally left blank or set to a
 // placeholder value in a prod deploy. The previous version only checked the
 // Supabase URL, so a misconfigured production deploy would silently grant
-// every visitor admin access. We now also hard-require NODE_ENV !== 'production'.
+// every visitor admin access. We now hard-require NODE_ENV !== 'production'
+// and an explicit ALLOW_DEV_MOCK_USER opt-in flag.
 const DEV_MOCK_USER = {
   id: 'dev-mock-user-id',
   email: 'admin@kurdamuz.dev',
@@ -44,19 +45,22 @@ const DEV_MOCK_USER = {
   created_at: new Date().toISOString(),
 } as any;
 
-function isPlaceholderSupabase() {
-  // Hard guard: never treat Supabase as "placeholder" in production,
-  // regardless of what the env vars say. This is the critical fix —
-  // it closes the admin-bypass hole that existed when Supabase env vars
-  // were missing/misconfigured in a deployed production environment.
-  if (process.env.NODE_ENV === 'production') return false;
+function isDevMockAllowed() {
+  return process.env.NODE_ENV !== 'production' && process.env.ALLOW_DEV_MOCK_USER === 'true';
+}
 
+function isPlaceholderSupabase() {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   return !url || url === 'https://placeholder.supabase.co' || url.includes('placeholder');
 }
 
 export async function getCurrentUser() {
   if (isPlaceholderSupabase()) {
+    if (!isDevMockAllowed()) {
+      throw new Error(
+        'Supabase is not configured and DEV_MOCK_USER is disabled. Set ALLOW_DEV_MOCK_USER=true for local development only.'
+      );
+    }
     return DEV_MOCK_USER;
   }
   try {

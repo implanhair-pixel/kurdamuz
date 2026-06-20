@@ -1,0 +1,1 @@
+{"name":"zustand","version":"5.0.1","main":"index.js","types":"index.d.ts","exports":{".":{"types":"./index.d.ts","default":"./index.js"},"./middleware":{"types":"./middleware/index.d.ts","default":"./middleware/index.js"}}}

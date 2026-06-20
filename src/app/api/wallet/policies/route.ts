@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { policyService } from '@/lib/wallet/policy-service';
 import { UpsertPolicySchema, GetPolicySchema, DeactivatePolicySchema, ActivatePolicySchema, DeletePolicySchema } from '@/lib/wallet/validation';
-import { getCurrentUser, requireRole } from '@/lib/auth';
+import { getCurrentUser, requireMinRole } from '@/lib/auth';
 
 /**
  * GET /api/wallet/policies
@@ -9,7 +9,7 @@ import { getCurrentUser, requireRole } from '@/lib/auth';
  */
 export async function GET(request: NextRequest) {
   try {
-    const user = await requireRole('admin');
+    const user = await requireMinRole('admin');
     
     const { searchParams } = new URL(request.url);
     const eventType = searchParams.get('eventType');
@@ -45,7 +45,7 @@ export async function GET(request: NextRequest) {
  */
 export async function PUT(request: NextRequest) {
   try {
-    const user = await requireRole('admin');
+    const user = await requireMinRole('admin');
     
     const body = await request.json();
     const validatedData = UpsertPolicySchema.parse({
@@ -80,7 +80,7 @@ export async function PUT(request: NextRequest) {
  */
 export async function PATCH(request: NextRequest) {
   try {
-    const user = await requireRole('admin');
+    const user = await requireMinRole('admin');
     
     const body = await request.json();
     const { eventType, action } = body;
@@ -114,7 +114,7 @@ export async function PATCH(request: NextRequest) {
  */
 export async function DELETE(request: NextRequest) {
   try {
-    const user = await requireRole('admin');
+    const user = await requireMinRole('admin');
     
     const { searchParams } = new URL(request.url);
     const eventType = searchParams.get('eventType');
