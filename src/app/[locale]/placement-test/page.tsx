@@ -100,4 +100,26 @@ export default function PlacementTestPage() {
             domainScores={results.overallScore.domainScores}
           />
           <RecommendationCard
-            recommendedLevel={results.placemen
+            recommendedLevel={results.placementResult.recommendedLevel}
+            onContinue={handleContinueLearning}
+            onRetake={handleRetakeTest}
+          />
+          <div className="flex justify-center gap-4 pt-4">
+            <button
+              onClick={handleRetakeTest}
+              className="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition-colors"
+            >
+              Retake Test
+            </button>
+            <button
+              onClick={handleContinueLearning}
+              className="px-6 py-3 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors"
+            >
+              Continue Learning
+            </button>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}

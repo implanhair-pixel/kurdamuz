@@ -158,7 +158,7 @@ export const useUserStore = create<UserStore>()(
       }),
       {
         name: 'user-store', // localStorage key
-        onRehydrateStorage: () => (state) => {
+        onRehydrateStorage: () => (state: any) => {
           if (state) {
             state.setHasHydrated(true);
           }

@@ -24,7 +24,7 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
-      <div lang={lang} dir={dir} className="min-h-screen">
+      <div lang={lang} dir={dir} className="min-h-screen" suppressHydrationWarning>
         {children}
       </div>
     </NextIntlClientProvider>

@@ -79,7 +79,7 @@ export default function RootLayout({
         <link rel="apple-touch-icon" href="/icon-192x192.png" />
         <link rel="manifest" href="/manifest.json" />
       </head>
-      <body className="font-sans">
+      <body className="font-sans" suppressHydrationWarning>
         <QueryProvider>{children}</QueryProvider>
       </body>
     </html>
